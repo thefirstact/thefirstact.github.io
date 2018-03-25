@@ -18,7 +18,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 146,
+    "uniqCompNum": 147,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -321,195 +321,115 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
-          "items": [
-            {
-              "authorName": "Brooke Anderson&nbsp;<br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
-              "authorBio": "",
-              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\n<div>I cannot thank you enough!</div>"
-            },
-            {
-              "authorName": "<div><span style=\"line-height: 1.42857143;\">Jen McCarthy Mons<br></span><br></div><div><br></div><div>\n</div><div>\n</div><div><br></div><div><br></div><div><br></div><div>\n</div><div>\n</div><div><br></div><br><div><br></div><div>&nbsp;\n</div><div><br></div><br><div><br></div><div>\n</div><div><br></div><div><br></div><br><br><div>&nbsp;<br><div><br></div><div><br></div></div>",
-              "authorBio": "<div><font color=\"#28324e\" face=\"Source Sans Pro, sans-serif\"><br></font><br><br></div>",
-              "text": "Our daughter Maile loves this program. She has found what she loves. Ms Aine is so wonderful at casting the characters, encouraging the children and keeping it fun for the kids. We were amazed with the kids performance and will do it again and again. Thank you!"
-            },
-            {
-              "authorName": "",
-              "authorBio": "<div>Jana Light<br></div><div><div><font face=\"Roboto, Helvetica, Arial, sans-serif\"><b>&nbsp; &nbsp;</b></font></div><br><div><font face=\"Roboto, Helvetica, Arial, sans-serif\"><b><br></b></font><div><br></div></div></div>",
-              "text": "<p>Ollie's first stage performance, playing Mr Shakespeare himself. He is born for the stage and BIG thank you to Aine Healy-Richardson and The First Act Theatre camp for making his first thespian experience absolutely amazingly magical. We want to join a class!!</p>"
-            },
-            {
-              "authorName": "\n<div><br></div><div>Lisa Peterson</div>",
-              "authorBio": "",
-              "text": "\"We moved here from Los Angeles where our daughter had been involved in theater productions for the last three years. We were skeptical to find a program that was age appropriate and had the solid professional foundation we had in our LA program. Well, we found a great program and a great teacher in Aine! Her enthusiasm and energy just brought our daughter right in and captured her attention and imagination throughout the entire program. We look forward to seeing just what Aine has planned next."
-            },
-            {
-              "authorName": "Shelly Baesler",
-              "authorBio": "",
-              "text": "This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work."
-            },
-            {
-              "authorName": "Patricia Szegi",
-              "authorBio": "",
-              "text": "When we signed our grand-daughter up for Aine's program, our focus was less on acting and more on helping her to become more confident in a group and to 'bring her out of her shell. Well, she is out!! She is about to start her 8th semester in Drama with Aine and not only is she a more confident child, she has truly blossomed in many ways.  Aine has a gift for finding just the right level for each child's development and challenging them to really become involved in the learning process. Aine's own enthusiasm for her work is contagious. As a teacher for over twenty years myself, I am able to recognize the bond that Aine is able to create with all the children in her program and I feel lucky that my grand-daughter is one of them.&nbsp;"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<br>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<br>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "\n<div><br></div><div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<br>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "\n<div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<br>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "\n<div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<br>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<br><div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "\n<div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<br><div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<div><br></div>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "",
-              "text": "<br>"
-            }
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-reviews__author-bio DIV": {
-              "font-size": "16px",
-              "color": "#efefef",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".mbr-reviews__author-bio": {
-              "font-size": "14px",
-              "color": "#000000",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            },
-            ".mbr-reviews__author-name": {
-              "color": "#efefef"
-            },
-            ".mbr-reviews__text": {
-              "color": "#000000",
-              "text-align": "left"
-            },
-            ".mbr-section__header": {
-              "color": "#f6faaf",
-              "font-size": "30px"
-            },
-            ".mbr-reviews__text DIV": {
-              "text-align": "left"
-            },
-            ".mbr-reviews__author-name DIV": {
-              "font-size": "16px"
-            }
-          },
-          "testimonial": [
-            {
-              "authorName": "Brooke Anderson&nbsp;<br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
-              "authorBio": "",
-              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\n<div>I cannot thank you enough!</div>"
-            },
-            {
-              "authorName": "<div><span style=\"line-height: 1.42857143;\">Jen McCarthy Mons<br></span><br></div><div><br></div><div>\n</div><div>\n</div><div><br></div><div><br></div><div><br></div><div>\n</div><div>\n</div><div><br></div><br><div><br></div><div>&nbsp;\n</div><div><br></div><br><div><br></div><div>\n</div><div><br></div><div><br></div><br><br><div>&nbsp;<br><div><br></div><div><br></div></div>",
-              "authorBio": "<div><font color=\"#28324e\" face=\"Source Sans Pro, sans-serif\"><br></font><br><br></div>",
-              "text": "Our daughter Maile loves this program. She has found what she loves. Ms Aine is so wonderful at casting the characters, encouraging the children and keeping it fun for the kids. We were amazed with the kids performance and will do it again and again. Thank you!"
-            },
-            {
-              "authorName": "",
-              "authorBio": "<div>Jana Light<br></div><div><div><font face=\"Roboto, Helvetica, Arial, sans-serif\"><b>&nbsp; &nbsp;</b></font></div><br><div><font face=\"Roboto, Helvetica, Arial, sans-serif\"><b><br></b></font><div><br></div></div></div>",
-              "text": "<p>Ollie's first stage performance, playing Mr Shakespeare himself. He is born for the stage and BIG thank you to Aine Healy-Richardson and The First Act Theatre camp for making his first thespian experience absolutely amazingly magical. We want to join a class!!</p>"
-            },
-            {
-              "authorName": "\n<div><br></div><div>Lisa Peterson</div>",
-              "authorBio": "",
-              "text": "\"We moved here from Los Angeles where our daughter had been involved in theater productions for the last three years. We were skeptical to find a program that was age appropriate and had the solid professional foundation we had in our LA program. Well, we found a great program and a great teacher in Aine! Her enthusiasm and energy just brought our daughter right in and captured her attention and imagination throughout the entire program. We look forward to seeing just what Aine has planned next."
-            },
-            {
-              "authorName": "Shelly Baesler",
-              "authorBio": "",
-              "text": "This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work."
-            },
-            {
-              "authorName": "Patricia Szegi",
-              "authorBio": "",
-              "text": "When we signed our grand-daughter up for Aine's program, our focus was less on acting and more on helping her to become more confident in a group and to 'bring her out of her shell. Well, she is out!! She is about to start her 8th semester in Drama with Aine and not only is she a more confident child, she has truly blossomed in many ways.  Aine has a gift for finding just the right level for each child's development and challenging them to really become involved in the learning process. Aine's own enthusiasm for her work is contagious. As a teacher for over twenty years myself, I am able to recognize the bond that Aine is able to create with all the children in her program and I feel lucky that my grand-daughter is one of them.&nbsp;"
-            }
-          ],
-          "_anchor": "testimonials1-8",
           "_params": {
             "showTitle": true,
             "showName": true,
-            "showBio": true,
+            "showBio": false,
             "count": "6",
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/2015-04-01-17.22.08-2000x1131.jpg",
-            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#9365b8",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "header": "Reviews from Parents"
+          "header": "WHAT OUR FANTASTIC PARENTS SAY",
+          "items": [
+            {
+              "authorName": "Brooke Anderson",
+              "authorBio": "User",
+              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\r<div>I cannot thank you enough!</div>"
+            },
+            {
+              "authorName": "Jenny Mons",
+              "authorBio": "User",
+              "text": "Our daughter Maile loves this program. She has found what she loves. Ms Aine is so wonderful at casting the characters, encouraging the children and keeping it fun for the kids. We were amazed with the kids performance and will do it again and again. Thank you!"
+            },
+            {
+              "authorName": "Jana Light",
+              "authorBio": "User",
+              "text": "Ollie's first stage performance, playing Mr Shakespeare himself. He is born for the stage and BIG thank you to Aine Healy-Richardson and The First Act Theatre camp for making his first thespian experience absolutely amazingly magical. We want to join a class!!"
+            },
+            {
+              "authorName": "Lisa Peterson",
+              "authorBio": "Developer",
+              "text": "\"We moved here from Los Angeles where our daughter had been involved in theater productions for the last three years. We were skeptical to find a program that was age appropriate and had the solid professional foundation we had in our LA program. Well, we found a great program and a great teacher in Aine! Her enthusiasm and energy just brought our daughter right in and captured her attention and imagination throughout the entire program. We look forward to seeing just what Aine has planned next."
+            },
+            {
+              "authorName": "Shelly Baesler",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work.</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "When we signed our grand-daughter up for Aine's program, our focus was less on acting and more on helping her to become more confident in a group and to 'bring her out of her shell. Well, she is out!! She is about to start her 8th semester in Drama with Aine and not only is she a more confident child, she has truly blossomed in many ways. Aine has a gift for finding just the right level for each child's development and challenging them to really become involved in the learning process. Aine's own enthusiasm for her work is contagious. As a teacher for over twenty years myself, I am able to recognize the bond that Aine is able to create with all the children in her program and I feel lucky that my grand-daughter is one of them.&nbsp;"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": ""
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-42",
+          "testimonial": [
+            {
+              "authorName": "Brooke Anderson",
+              "authorBio": "User",
+              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\r<div>I cannot thank you enough!</div>"
+            },
+            {
+              "authorName": "Jenny Mons",
+              "authorBio": "User",
+              "text": "Our daughter Maile loves this program. She has found what she loves. Ms Aine is so wonderful at casting the characters, encouraging the children and keeping it fun for the kids. We were amazed with the kids performance and will do it again and again. Thank you!"
+            },
+            {
+              "authorName": "Jana Light",
+              "authorBio": "User",
+              "text": "Ollie's first stage performance, playing Mr Shakespeare himself. He is born for the stage and BIG thank you to Aine Healy-Richardson and The First Act Theatre camp for making his first thespian experience absolutely amazingly magical. We want to join a class!!"
+            },
+            {
+              "authorName": "Lisa Peterson",
+              "authorBio": "Developer",
+              "text": "\"We moved here from Los Angeles where our daughter had been involved in theater productions for the last three years. We were skeptical to find a program that was age appropriate and had the solid professional foundation we had in our LA program. Well, we found a great program and a great teacher in Aine! Her enthusiasm and energy just brought our daughter right in and captured her attention and imagination throughout the entire program. We look forward to seeing just what Aine has planned next."
+            },
+            {
+              "authorName": "Shelly Baesler",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work.</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "When we signed our grand-daughter up for Aine's program, our focus was less on acting and more on helping her to become more confident in a group and to 'bring her out of her shell. Well, she is out!! She is about to start her 8th semester in Drama with Aine and not only is she a more confident child, she has truly blossomed in many ways. Aine has a gift for finding just the right level for each child's development and challenging them to really become involved in the learning process. Aine's own enthusiasm for her work is contagious. As a teacher for over twenty years myself, I am able to recognize the bond that Aine is able to create with all the children in her program and I feel lucky that my grand-daughter is one of them.&nbsp;"
+            }
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#f6faaf"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_inherit": "msg-box3",

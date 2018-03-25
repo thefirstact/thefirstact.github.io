@@ -2,8 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 
-
-
 #msg-box4-1r .mbr-header__text {
   color: #f6faaf;
   font-size: 36px;
@@ -64,32 +62,11 @@
   font-size: 17px;
   color: #ffffff;
 }
-#testimonials1-8 .mbr-reviews__author-bio DIV {
-  font-size: 16px;
-  color: #efefef;
-  font-family: 'Roboto', sans-serif;
-}
-#testimonials1-8 .mbr-reviews__author-bio {
-  font-size: 14px;
-  color: #000000;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#testimonials1-8 .mbr-reviews__author-name {
-  color: #efefef;
-}
-#testimonials1-8 .mbr-reviews__text {
-  color: #000000;
-  text-align: left;
-}
-#testimonials1-8 .mbr-section__header {
+#testimonials1-42 .mbr-section__header {
   color: #f6faaf;
-  font-size: 30px;
 }
-#testimonials1-8 .mbr-reviews__text DIV {
-  text-align: left;
-}
-#testimonials1-8 .mbr-reviews__author-name DIV {
-  font-size: 16px;
+#testimonials1-42 .mbr-reviews__author-name {
+  color: #efefef;
 }
 #content5-1o .mbr-header .mbr-header__text {
   text-align: center;
