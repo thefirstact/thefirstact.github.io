@@ -394,7 +394,7 @@
             {
               "authorName": "Brooke Anderson",
               "authorBio": "User",
-              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\r<div>I cannot thank you enough!</div>"
+              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\n<div>I cannot thank you enough!</div>"
             },
             {
               "authorName": "Jenny Mons",
@@ -428,6 +428,9 @@
             },
             ".mbr-reviews__author-name": {
               "color": "#efefef"
+            },
+            ".mbr-reviews__text": {
+              "color": "#000000"
             }
           }
         },
