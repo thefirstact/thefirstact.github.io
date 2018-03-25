@@ -18,7 +18,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 147,
+    "uniqCompNum": 148,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -1621,16 +1621,16 @@
           "_params": {
             "showTitle": true,
             "showName": true,
-            "showBio": true,
+            "showBio": false,
             "count": "6",
             "paddingTop": 3,
-            "paddingBottom": "0",
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cimg9317%20-%20copy-2000x1127.jpg",
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#1abc9c",
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -1638,82 +1638,78 @@
           "items": [
             {
               "authorName": "Nancy Graeme",
-              "authorBio": "Participant",
-              "text": "The Friendships that have been formed in this group will be life long.  This is a great way to teach children about theatre and where stories come from.  Expect to see much more of us in the audience!"
-            },
-            {
-              "authorName": "Amy Palmer",
-              "authorBio": "Grants Manager Cultural Council of Greater Jacksonville, Inc.&nbsp;",
-              "text": "<div>I just wanted to reiterate my congratulations on such a wonderful culmination to the Reminiscence Project, funded by a BCBSF Arts &amp; Cultural Education Grant.  I thoroughly enjoyed “The Past as a Present” (as did Avery!), and was so impressed with the top-notch quality of the vignettes:  the children’s performances, the costumes and sets, the music, and historical detail.  Most of all, it was apparent that the project was successful in fostering an extremely positive intergenerational experience.  I sat behind the ladies from the senior center who had provided the memories that informed the production.  They were absolutely beaming the whole time!  I really think your project concept could serve as a model for other theater education programs.</div><div>&nbsp;\n</div><div>Thanks again for inviting me.  It was a magical evening of theater!\n</div><div><br></div>"
-            },
-            {
-              "authorName": "Dolores Nardino",
-              "authorBio": "Participant",
-              "text": "The memories this group has stirred up are amazing, the stories I have heard from others are poignant, extremely interesting and enlightening.  I will never forget the wonderful people I've met in the past twelve weeks."
-            },
-            {
-              "authorName": "Rachel Dorrian",
-              "authorBio": "Parent",
-              "text": "I wanted to write and thank you for creating the \"reminiscence project\" and allowing Cady to be part of it.&nbsp; Besides being a wonderful show, the inter-generational friendships that occurred are priceless.&nbsp; Cady still calls Nancy \"her senior\" and when she has a chance to see her she gets so excited.&nbsp; Being in the audience and watching the women see their lives on stage was just amazing.&nbsp; Thinking about it&nbsp;still gives me goose bumps.&nbsp;\n<div>&nbsp;The lasting benefits from this program went on long after the curtain went down - and for that I am so grateful.&nbsp;\n</div><div>&nbsp;Thank you again, for creating such a wonderful program – and thank you Blue Cross Blue Shield and the Cultural Council for funding something so worthwhile in our community.</div>"
+              "authorBio": "User",
+              "text": "The Friendships that have been formed in this group will be life long. This is a great way to teach children about theatre and where stories come from. I've been involved in a lot of theatre, and this has been the best experience yet. &nbsp;Expect to see much more of us in the audience!"
             },
             {
               "authorName": "Irene Duvall",
-              "authorBio": "Participant",
-              "text": "I believe the past is worth remembering and worth sharing.  Life in our youth was so different.  Memories that have faded to the back our minds have been unlocked by our weekly meetings.  These wonderful women who I now consider to by my friends have helped me to recall moments in my past that I thought were long forgotten.  The show was wonderful and the experience of making theatre with our stories was thrilling. \r<div>Irene Duvall</div>"
+              "authorBio": "User",
+              "text": "I believe the past is worth remembering and worth sharing. Life in our youth was so different. Memories that have faded to the back our minds have been unlocked by our weekly meetings. These wonderful women who I now consider to by my friends have helped me to recall moments in my past that I thought were long forgotten. The show was wonderful and the experience of making theatre with our stories was thrilling."
+            },
+            {
+              "authorName": "Dolores Nardino",
+              "authorBio": "User",
+              "text": "The memories this group has stirred up are amazing, the stories I have heard from others are poignant, extremely interesting and enlightening. I will never forget the wonderful people I've met in the past twelve weeks."
+            },
+            {
+              "authorName": "Rachel Dorrian",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">I wanted to write and thank you for creating the \"reminiscence project\" and allowing Cady to be part of it.  Besides being a wonderful show, the inter-generational friendships that occurred are priceless.  Cady still calls Nancy \"her senior\" and when she has a chance to see her she gets so excited.  Being in the audience and watching the women see their lives on stage was just amazing.  Thinking about it still gives me goose bumps. \r</p><p class=\"mbr-reviews__p\">&nbsp;The lasting benefits from this program went on long after the curtain went down - and for that I am so grateful. \r</p><p class=\"mbr-reviews__p\">&nbsp;Thank you again, for creating such a wonderful program – and thank you Blue Cross Blue Shield and the Cultural Council for funding something so worthwhile in our community.</p>"
+            },
+            {
+              "authorName": "Amy Palmer - Grants Manager Cultural Council of Jacksonville&nbsp;",
+              "authorBio": "Developer",
+              "text": "I just wanted to reiterate my congratulations on such a wonderful culmination to the Reminiscence Project, funded by a BCBSF Arts &amp; Cultural Education Grant. I thoroughly enjoyed “The Past as a Present” (as did Avery!), and was so impressed with the top-notch quality of the vignettes: the children’s performances, the costumes and sets, the music, and historical detail. Most of all, it was apparent that the project was successful in fostering an extremely positive intergenerational experience. I sat behind the ladies from the senior center who had provided the memories that informed the production. They were absolutely beaming the whole time! I really think your project concept could serve as a model for other theater education programs.\n<div>&nbsp;\n</div><div>Thanks again for inviting me. It was a magical evening of theater!\n</div><div><br></div>"
             },
             {
               "authorName": "Ann von Thron",
-              "authorBio": "Parent",
-              "text": "Aside from the impact to our children in the drama class, a real bonding occurred amongst the senior citizen participants.&nbsp;&nbsp;The children were able to watch them reminisce about their past, and they saw the friendships that developed as each senior remembered and shared his or her story.  By the end of the project and performance of the play, everyone lives were enriched in an immeasurable way."
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">Aside from the impact to our children in the drama class, a real bonding occurred amongst the senior citizen participants.  The children were able to watch them reminisce about their past, and they saw the friendships that developed as each senior remembered and shared his or her story. By the end of the project and performance of the play, everyone lives were enriched in an immeasurable way.</p>"
             }
           ],
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials1",
-          "_anchor": "testimonials1-1z",
+          "_anchor": "testimonials1-43",
           "testimonial": [
             {
               "authorName": "Nancy Graeme",
-              "authorBio": "Participant",
-              "text": "The Friendships that have been formed in this group will be life long.  This is a great way to teach children about theatre and where stories come from.  Expect to see much more of us in the audience!"
-            },
-            {
-              "authorName": "Amy Palmer",
-              "authorBio": "Grants Manager Cultural Council of Greater Jacksonville, Inc.&nbsp;",
-              "text": "<div>I just wanted to reiterate my congratulations on such a wonderful culmination to the Reminiscence Project, funded by a BCBSF Arts &amp; Cultural Education Grant.  I thoroughly enjoyed “The Past as a Present” (as did Avery!), and was so impressed with the top-notch quality of the vignettes:  the children’s performances, the costumes and sets, the music, and historical detail.  Most of all, it was apparent that the project was successful in fostering an extremely positive intergenerational experience.  I sat behind the ladies from the senior center who had provided the memories that informed the production.  They were absolutely beaming the whole time!  I really think your project concept could serve as a model for other theater education programs.</div><div>&nbsp;\n</div><div>Thanks again for inviting me.  It was a magical evening of theater!\n</div><div><br></div>"
-            },
-            {
-              "authorName": "Dolores Nardino",
-              "authorBio": "Participant",
-              "text": "The memories this group has stirred up are amazing, the stories I have heard from others are poignant, extremely interesting and enlightening.  I will never forget the wonderful people I've met in the past twelve weeks."
-            },
-            {
-              "authorName": "Rachel Dorrian",
-              "authorBio": "Parent",
-              "text": "I wanted to write and thank you for creating the \"reminiscence project\" and allowing Cady to be part of it.&nbsp; Besides being a wonderful show, the inter-generational friendships that occurred are priceless.&nbsp; Cady still calls Nancy \"her senior\" and when she has a chance to see her she gets so excited.&nbsp; Being in the audience and watching the women see their lives on stage was just amazing.&nbsp; Thinking about it&nbsp;still gives me goose bumps.&nbsp;\n<div>&nbsp;The lasting benefits from this program went on long after the curtain went down - and for that I am so grateful.&nbsp;\n</div><div>&nbsp;Thank you again, for creating such a wonderful program – and thank you Blue Cross Blue Shield and the Cultural Council for funding something so worthwhile in our community.</div>"
+              "authorBio": "User",
+              "text": "The Friendships that have been formed in this group will be life long. This is a great way to teach children about theatre and where stories come from. I've been involved in a lot of theatre, and this has been the best experience yet. &nbsp;Expect to see much more of us in the audience!"
             },
             {
               "authorName": "Irene Duvall",
-              "authorBio": "Participant",
-              "text": "I believe the past is worth remembering and worth sharing.  Life in our youth was so different.  Memories that have faded to the back our minds have been unlocked by our weekly meetings.  These wonderful women who I now consider to by my friends have helped me to recall moments in my past that I thought were long forgotten.  The show was wonderful and the experience of making theatre with our stories was thrilling. \r<div>Irene Duvall</div>"
+              "authorBio": "User",
+              "text": "I believe the past is worth remembering and worth sharing. Life in our youth was so different. Memories that have faded to the back our minds have been unlocked by our weekly meetings. These wonderful women who I now consider to by my friends have helped me to recall moments in my past that I thought were long forgotten. The show was wonderful and the experience of making theatre with our stories was thrilling."
+            },
+            {
+              "authorName": "Dolores Nardino",
+              "authorBio": "User",
+              "text": "The memories this group has stirred up are amazing, the stories I have heard from others are poignant, extremely interesting and enlightening. I will never forget the wonderful people I've met in the past twelve weeks."
+            },
+            {
+              "authorName": "Rachel Dorrian",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">I wanted to write and thank you for creating the \"reminiscence project\" and allowing Cady to be part of it.  Besides being a wonderful show, the inter-generational friendships that occurred are priceless.  Cady still calls Nancy \"her senior\" and when she has a chance to see her she gets so excited.  Being in the audience and watching the women see their lives on stage was just amazing.  Thinking about it still gives me goose bumps. \r</p><p class=\"mbr-reviews__p\">&nbsp;The lasting benefits from this program went on long after the curtain went down - and for that I am so grateful. \r</p><p class=\"mbr-reviews__p\">&nbsp;Thank you again, for creating such a wonderful program – and thank you Blue Cross Blue Shield and the Cultural Council for funding something so worthwhile in our community.</p>"
+            },
+            {
+              "authorName": "Amy Palmer - Grants Manager Cultural Council of Jacksonville&nbsp;",
+              "authorBio": "Developer",
+              "text": "I just wanted to reiterate my congratulations on such a wonderful culmination to the Reminiscence Project, funded by a BCBSF Arts &amp; Cultural Education Grant. I thoroughly enjoyed “The Past as a Present” (as did Avery!), and was so impressed with the top-notch quality of the vignettes: the children’s performances, the costumes and sets, the music, and historical detail. Most of all, it was apparent that the project was successful in fostering an extremely positive intergenerational experience. I sat behind the ladies from the senior center who had provided the memories that informed the production. They were absolutely beaming the whole time! I really think your project concept could serve as a model for other theater education programs.\n<div>&nbsp;\n</div><div>Thanks again for inviting me. It was a magical evening of theater!</div>"
             },
             {
               "authorName": "Ann von Thron",
-              "authorBio": "Parent",
-              "text": "Aside from the impact to our children in the drama class, a real bonding occurred amongst the senior citizen participants.&nbsp;&nbsp;The children were able to watch them reminisce about their past, and they saw the friendships that developed as each senior remembered and shared his or her story.  By the end of the project and performance of the play, everyone lives were enriched in an immeasurable way."
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">Aside from the impact to our children in the drama class, a real bonding occurred amongst the senior citizen participants.  The children were able to watch them reminisce about their past, and they saw the friendships that developed as each senior remembered and shared his or her story. By the end of the project and performance of the play, everyone lives were enriched in an immeasurable way.</p>"
             }
           ],
           "_styles": {
-            ".mbr-reviews__author-bio": {
-              "color": "#ffffff"
-            },
-            ".mbr-reviews__author-name": {
-              "color": "#ffffff",
-              "font-size": "16px"
-            },
             ".mbr-section__header": {
               "color": "#f6faaf"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#efefef"
             },
             ".mbr-reviews__text": {
               "color": "#000000"

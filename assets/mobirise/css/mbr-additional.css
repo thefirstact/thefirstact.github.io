@@ -198,17 +198,13 @@
 #content5-21 .mbr-article {
   color: #fff;
 }
-#testimonials1-1z .mbr-reviews__author-bio {
-  color: #ffffff;
-}
-#testimonials1-1z .mbr-reviews__author-name {
-  color: #ffffff;
-  font-size: 16px;
-}
-#testimonials1-1z .mbr-section__header {
+#testimonials1-43 .mbr-section__header {
   color: #f6faaf;
 }
-#testimonials1-1z .mbr-reviews__text {
+#testimonials1-43 .mbr-reviews__author-name {
+  color: #efefef;
+}
+#testimonials1-43 .mbr-reviews__text {
   color: #000000;
 }
 #header1-23 H1 {
