@@ -59,7 +59,7 @@
   color: #ffffff;
 }
 #msg-box4-10 .mbr-article P {
-  font-size: 17px;
+  font-size: 16px;
   color: #ffffff;
 }
 #testimonials1-42 .mbr-section__header {
@@ -165,6 +165,17 @@
 }
 #testimonials1-16 .mbr-reviews__author-name {
   color: #efefef;
+}
+#content5-4a .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4a .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4a .mbr-article {
+  color: #fff;
 }
 #msg-box3-1c .mbr-header .mbr-header__text {
   text-align: center;

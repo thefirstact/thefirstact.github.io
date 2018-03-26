@@ -18,7 +18,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 148,
+    "uniqCompNum": 155,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -269,7 +269,7 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-size": "17px",
+              "font-size": "16px",
               "color": "#ffffff"
             }
           },
@@ -317,7 +317,7 @@
           "headerAlign": "left",
           "title": "About",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Aine Healy-Richardson is the executive director of The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Ireland with a long history of working with children (including her twenty-five nieces and nephews).  She grew up in an Oral Tradition – both her parents were Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland.   Aine spent fourteen years living and working in London where she worked as an Occupational Therapist in Community Mental Health. As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Mental Health for over ten years. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children.   She was also part of a Community Theatre Group in London, gaining experience on and off stage.\n</p><p>Having moved to the Beaches area in 2001 to marry Wes, Aine has since combined her passion for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea Theatre, The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School and Atlantic Beach Elementary School.  \n</p><p><br></p><p>In 2008 Aine started 'The First Act' and in 2010 formed a collaboration with The Atlantic Beach Experimental Theatre where Aine very happily taught classes on their behalf until 2016.   While at ABET Aine was responsible for securing grants from The Blue Cross and Blue Shield of Florida and the Cultural Council of Jacksonville which provided funds to do two Inter-generational outreach projects involving local low-income seniors and the children from the drama program.  Using the stories the seniors shared with them, the children worked with Aine to create unique pieces of theatre that incorporated the group's experiences.  The seniors offered their expertise in multiple ways including directing, choreography and video skills.  Those who took part, and their families were honored guests at performances at the theatre.   Aine was responsible for planning and implementing all aspects of these Reminiscence/Theatre projects, which were a great success.  \n</p><p>\n</p><p>In Oct 2016 The First Act was awarded a contract with The City of Atlantic Beach to provide the Children's Program at The Adele Grage Theatre.   Aine runs classes and Summer Camps there and also runs drama classes at The Jordan Centre in Atlantic Beach which is an after school activity run in conjunction with the City of AB and Beaches Habitat for Humanity.  Aine also works with individual children and Adults to help them prepare for auditions, presentations and speeches. &nbsp;&nbsp;</p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children.&nbsp;<br></p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but for all my students, I believe it helps to develop their communications skills, gain increased empathy and understanding of others and to appreciate live theatre.\"</p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p><br></p><p>Board of Directors</p><p>President Ingrid McCawley</p><p>Vice President Louis Weimer</p><p>Treasurer Dorris Croasdell</p><p>Secretary Ginny Brinkley</p><p>Director Renee Faure</p><p><br></p>",
+          "text": "<p>Aine Healy-Richardson is the executive director of The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Ireland with a long history of working with children (including her twenty-five nieces and nephews).  She grew up in an Oral Tradition – both her parents were great Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland.   Aine spent fourteen years living and working in London where she worked as an Occupational Therapist in Community Mental Health. As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Mental Health for over ten years. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children.   She was also part of a Community Theatre Group in London, gaining experience on and off stage.\n</p><p>Having moved to the Beaches area in 2001 to marry Wes, Aine has since combined her passion for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea Theatre, The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School and Atlantic Beach Elementary School.  \n</p><p><br></p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children.&nbsp;<br></p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but for all my students, I believe it helps to develop their communications skills, gain increased empathy and understanding of others and to appreciate live theatre.\"</p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p>Board of Directors<br></p><p>President Ingrid McCawley &nbsp;Vice President Louis Weimer &nbsp; Treasurer Dorris Croasdell &nbsp; Secretary Ginny Brinkley</p><p>Director Renee Faure</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -342,7 +342,7 @@
             {
               "authorName": "Brooke Anderson",
               "authorBio": "User",
-              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\r<div>I cannot thank you enough!</div>"
+              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\n<div>I cannot thank you enough!</div>"
             },
             {
               "authorName": "Jenny Mons",
@@ -414,7 +414,7 @@
             {
               "authorName": "Shelly Baesler",
               "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work.</p><p class=\"mbr-reviews__p\"><br></p>"
+              "text": "<p class=\"mbr-reviews__p\">This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work.</p>"
             },
             {
               "authorName": "John Smith",
@@ -1273,6 +1273,53 @@
           }
         },
         {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "EASY TO USE!",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-4a"
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -1660,9 +1707,9 @@
               "text": "<p class=\"mbr-reviews__p\">I wanted to write and thank you for creating the \"reminiscence project\" and allowing Cady to be part of it.  Besides being a wonderful show, the inter-generational friendships that occurred are priceless.  Cady still calls Nancy \"her senior\" and when she has a chance to see her she gets so excited.  Being in the audience and watching the women see their lives on stage was just amazing.  Thinking about it still gives me goose bumps. \r</p><p class=\"mbr-reviews__p\">&nbsp;The lasting benefits from this program went on long after the curtain went down - and for that I am so grateful. \r</p><p class=\"mbr-reviews__p\">&nbsp;Thank you again, for creating such a wonderful program – and thank you Blue Cross Blue Shield and the Cultural Council for funding something so worthwhile in our community.</p>"
             },
             {
-              "authorName": "Amy Palmer - Grants Manager Cultural Council of Jacksonville&nbsp;",
+              "authorName": "Amy Palmer&nbsp;<br>Grants Manager Cultural Council of Jacksonville&nbsp;",
               "authorBio": "Developer",
-              "text": "I just wanted to reiterate my congratulations on such a wonderful culmination to the Reminiscence Project, funded by a BCBSF Arts &amp; Cultural Education Grant. I thoroughly enjoyed “The Past as a Present” (as did Avery!), and was so impressed with the top-notch quality of the vignettes: the children’s performances, the costumes and sets, the music, and historical detail. Most of all, it was apparent that the project was successful in fostering an extremely positive intergenerational experience. I sat behind the ladies from the senior center who had provided the memories that informed the production. They were absolutely beaming the whole time! I really think your project concept could serve as a model for other theater education programs.\n<div>&nbsp;\n</div><div>Thanks again for inviting me. It was a magical evening of theater!\n</div><div><br></div>"
+              "text": "I just wanted to reiterate my congratulations on such a wonderful culmination to the Reminiscence Project, funded by a BCBSF Arts &amp; Cultural Education Grant. I thoroughly enjoyed “The Past as a Present” (as did Avery!), and was so impressed with the top-notch quality of the vignettes: the children’s performances, the costumes and sets, the music, and historical detail. Most of all, it was apparent that the project was successful in fostering an extremely positive intergenerational experience. I sat behind the ladies from the senior center who had provided the memories that informed the production. They were absolutely beaming the whole time! I really think your project concept could serve as a model for other theater education programs.\n<div>&nbsp;\n</div><div>Thanks again for inviting me. It was a magical evening of theater!</div>"
             },
             {
               "authorName": "Ann von Thron",
@@ -1697,7 +1744,7 @@
               "text": "<p class=\"mbr-reviews__p\">I wanted to write and thank you for creating the \"reminiscence project\" and allowing Cady to be part of it.  Besides being a wonderful show, the inter-generational friendships that occurred are priceless.  Cady still calls Nancy \"her senior\" and when she has a chance to see her she gets so excited.  Being in the audience and watching the women see their lives on stage was just amazing.  Thinking about it still gives me goose bumps. \r</p><p class=\"mbr-reviews__p\">&nbsp;The lasting benefits from this program went on long after the curtain went down - and for that I am so grateful. \r</p><p class=\"mbr-reviews__p\">&nbsp;Thank you again, for creating such a wonderful program – and thank you Blue Cross Blue Shield and the Cultural Council for funding something so worthwhile in our community.</p>"
             },
             {
-              "authorName": "Amy Palmer - Grants Manager Cultural Council of Jacksonville&nbsp;",
+              "authorName": "Amy Palmer&nbsp;<br>Grants Manager Cultural Council of Jacksonville&nbsp;",
               "authorBio": "Developer",
               "text": "I just wanted to reiterate my congratulations on such a wonderful culmination to the Reminiscence Project, funded by a BCBSF Arts &amp; Cultural Education Grant. I thoroughly enjoyed “The Past as a Present” (as did Avery!), and was so impressed with the top-notch quality of the vignettes: the children’s performances, the costumes and sets, the music, and historical detail. Most of all, it was apparent that the project was successful in fostering an extremely positive intergenerational experience. I sat behind the ladies from the senior center who had provided the memories that informed the production. They were absolutely beaming the whole time! I really think your project concept could serve as a model for other theater education programs.\n<div>&nbsp;\n</div><div>Thanks again for inviting me. It was a magical evening of theater!</div>"
             },
