@@ -18,7 +18,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 173,
+    "uniqCompNum": 174,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -1911,8 +1911,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Mailing Address<br>612 13th Ave North, Lower,<br>Jacksonville Beach, FL <br>FL 32250<br><br>Classes and Camps held at<br>The Adele Grage Cultural CenteTheatre,<br>716 Ocean Blvd.<br>Atlantic Beach, <br>FL 32233&nbsp;<br><br><br>\n<strong>CONTACTS</strong><br>\nEmail: ainehealy@thefirstact.net<br>\nPhone: +1 (0) 904 509 1472<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Mailing Address<br>612 13th Ave North, Lower,<br>Jacksonville Beach, FL <br>FL 32250<br><br>Classes and Camps held at<br>The Adele Grage Theatre,<br>716 Ocean Blvd.<br>Atlantic Beach, <br>FL 32233&nbsp;<br><br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:ainehealy@thefirstact.net\" class=\"text-info\">ainehealy@thefirstact.net</a><br>\nPhone: &nbsp;(904) 509 - 1472<br><br>",
+          "text2": "",
           "_tags": [
             "Theme"
           ],
