@@ -4,7 +4,7 @@
 
 #msg-box4-1r .mbr-header__text {
   color: #f6faaf;
-  font-size: 36px;
+  font-size: 46px;
   font-family: 'Montserrat', sans-serif;
 }
 #msg-box4-1r .mbr-header__subtext {
@@ -64,6 +64,7 @@
 }
 #testimonials1-42 .mbr-section__header {
   color: #f6faaf;
+  font-size: 30px;
 }
 #testimonials1-42 .mbr-reviews__author-name {
   color: #efefef;
@@ -91,7 +92,7 @@
 }
 #msg-box1-y .mbr-article P {
   color: #ffffff;
-  font-size: 25px;
+  font-size: 16px;
 }
 #msg-box1-y .mbr-article B {
   color: #ffffff;
@@ -166,26 +167,20 @@
 #testimonials1-16 .mbr-reviews__author-name {
   color: #efefef;
 }
-#content5-4a .mbr-header .mbr-header__text {
+#content5-4d .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
-}
-#content5-4a .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-4a .mbr-article {
-  color: #fff;
-}
-#msg-box3-1c .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-1c .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-1c .mbr-header .mbr-header__text P {
   color: #f6faaf;
   font-size: 30px;
+}
+#content5-4d .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4d .mbr-article {
+  color: #fff;
+}
+#content5-4d .mbr-article P {
+  font-size: 14px;
 }
 #gallery1-1a SMALL {
   color: #ffffff;
@@ -195,7 +190,7 @@
 }
 #testimonials1-1b .mbr-section__header {
   color: #f6faaf;
-  font-size: 30px;
+  font-size: 25px;
 }
 #testimonials1-1b .mbr-reviews__author-name {
   color: #efefef;
