@@ -1125,7 +1125,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "A Midsumer Night's Dream for Kids",
+          "title": "A Midsumer Night's Dream for Kids<br>",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -1147,10 +1147,11 @@
             "bgColor": "#1abc9c",
             "images": [
               {
-                "caption": "Titania and Bottom",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20150402-135134-2368x3200-27-2000x2703-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20150402-135134-2368x3200-27.jpg",
-                "active": false
+                "caption": "Titania and the Changling girl<br>All photos in this series by Hal Padgett",
+                "thumb": "@PROJECT_PATH@/assets/images/mid-3c-644x900-644x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mid-3c-644x900.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Titania's tribe",
@@ -1160,22 +1161,24 @@
                 "alt": ""
               },
               {
-                "caption": "Changling girl",
+                "caption": "Titania and the Changling girl",
                 "thumb": "@PROJECT_PATH@/assets/images/mid-3b-1000x718-89-1000x718-42.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mid-3b-1000x718-89.jpg",
                 "active": false
               },
               {
-                "caption": "A Midsummer Night's Dream for Kids - The Cast and helpers",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20150412-133049-3200x2368-22-2000x1480-0.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20150412-133049-3200x2368-22.jpg",
-                "active": false
+                "caption": "Titania and Bottom",
+                "thumb": "@PROJECT_PATH@/assets/images/mid-1a-900x711-800x632.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mid-1a-900x711.jpg",
+                "active": false,
+                "alt": ""
               },
               {
-                "caption": "Fairy",
-                "thumb": "@PROJECT_PATH@/assets/images/abet-4-3500x2602-69-2000x1487-58.jpg",
-                "image": "@PROJECT_PATH@/assets/images/abet-4-3500x2602-69.jpg",
-                "active": false
+                "caption": "Hippolyta and Theseus",
+                "thumb": "@PROJECT_PATH@/assets/images/mid-9c-900x592-800x526.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mid-9c-900x592.jpg",
+                "active": true,
+                "alt": ""
               },
               {
                 "caption": "Hermia, Demetrius and Helena",
@@ -1187,7 +1190,7 @@
                 "caption": "The Mechanicals",
                 "thumb": "@PROJECT_PATH@/assets/images/abet-6-2530x3500-11-2000x2767-10.jpg",
                 "image": "@PROJECT_PATH@/assets/images/abet-6-2530x3500-11.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "A Midsummer Night's Dream for Kids - The Cast and helpers",
