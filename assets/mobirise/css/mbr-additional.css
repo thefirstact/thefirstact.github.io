@@ -83,14 +83,14 @@
 }
 #msg-box1-y .mbr-header .mbr-header__text {
   color: #f6faaf;
-  font-size: 46px;
+  font-size: 36px;
 }
 #msg-box1-y .mbr-article {
   color: #fff;
 }
 #msg-box1-y .mbr-article P {
   color: #ffffff;
-  font-size: 16px;
+  font-size: 20px;
 }
 #msg-box1-y .mbr-article B {
   color: #ffffff;
@@ -140,17 +140,17 @@
   color: #efefef;
   font-size: 16px;
 }
-#msg-box2-7 .mbr-header .mbr-header__text {
-  color: #252525;
-  text-align: right;
-}
-#msg-box2-7 .mbr-article {
-  color: #252525;
-}
-#msg-box2-7 .mbr-header .mbr-header__text P {
-  text-align: right;
-  font-size: 30px;
+#content5-4s .mbr-header .mbr-header__text {
+  text-align: center;
   color: #f6faaf;
+  font-size: 30px;
+}
+#content5-4s .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4s .mbr-article {
+  color: #fff;
 }
 #gallery1-11 SMALL {
   font-size: 16px;
@@ -168,6 +168,7 @@
 #content5-4o .mbr-header .mbr-header__text {
   text-align: center;
   color: #f6faaf;
+  font-size: 30px;
 }
 #content5-4o .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -175,6 +176,7 @@
 }
 #content5-4o .mbr-article {
   color: #fff;
+  font-size: 16px;
 }
 #gallery1-1a SMALL {
   color: #ffffff;
@@ -184,7 +186,7 @@
 }
 #testimonials1-1b .mbr-section__header {
   color: #f6faaf;
-  font-size: 25px;
+  font-size: 30px;
 }
 #testimonials1-1b .mbr-reviews__author-name {
   color: #efefef;
@@ -193,6 +195,7 @@
 #content5-21 .mbr-header .mbr-header__text {
   text-align: center;
   color: #f6faaf;
+  font-size: 30px;
 }
 #content5-21 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -203,6 +206,7 @@
 }
 #testimonials1-43 .mbr-section__header {
   color: #f6faaf;
+  font-size: 30px;
 }
 #testimonials1-43 .mbr-reviews__author-name {
   color: #efefef;
@@ -238,6 +242,9 @@
 }
 #content5-1j .mbr-article {
   color: #fff;
+}
+#social-buttons2-2 .mbr-header__text {
+  color: #f6faaf;
 }
 #contacts2-1 P {
   color: #ffffff;

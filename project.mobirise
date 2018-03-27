@@ -18,7 +18,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 172,
+    "uniqCompNum": 173,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -486,14 +486,14 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#f6faaf",
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".mbr-article": {
               "color": "#fff"
             },
             ".mbr-article P": {
               "color": "#ffffff",
-              "font-size": "16px"
+              "font-size": "20px"
             },
             ".mbr-article B": {
               "color": "#ffffff"
@@ -516,7 +516,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.2"
           },
           "title": "<br>Summer Camp Program 2018",
           "text": "<p><b>&nbsp;</b><b>All camps are held at</b></p><p><b>The Adele Grage Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><br><p><b>Junior camps</b></p><p><b>June 4&nbsp;– 8 &nbsp;(One Week) &nbsp;</b><b>2nd – 4th Grade&nbsp;</b></p><p><b>June 25- 29 &nbsp;(One Week) &nbsp; 2nd- 4th Grade\n<br></b></p><p><b>July 23 – 27 (One Week) &nbsp; 2nd - 4th  Grade\n<br>$170 plus $20 Production Fee\n<br></b></p><b><br></b><b>Senior Camps<br></b><p><b>June 11 - 22&nbsp;(Two Weeks) &nbsp; 5th Grade Up\n<br></b></p><p><b>July 9 - July 20 (Two Weeks) &nbsp; 5th  Grade Up\n<br></b></p><p><b>July 30 – Aug10(Two Weeks) &nbsp; 5th Grade up\n<br>$340 plus $30 Production Fee\n<br></b></p><br><p><b>Deposit of $50 per week at registration to secure booking.\n<br>Camps run from    9am – 1pm Mon – Fri\n<br>Brown Bag lunch, a drink and comfortable clothes required.<br>Each one week camp culminates in a short play at noon on the last day of camp. <br>Each two week camp culminates in a short play at noon&nbsp;and 7:00pm on the last day of camp.&nbsp;<br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Line learning is required unless a non-speaking or small part is requested.\n<br>Grades are rising. Camps are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior camps depending on age and experience.</b><br><p><b>Middle and High School students looking to aquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><br><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email aine@thefirstact.net for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
@@ -1045,7 +1045,7 @@
             },
             {
               "authorName": "",
-              "authorBio": "John Lucas<br><br>",
+              "authorBio": "<b>John Lucas</b><br><br>",
               "text": "My eight year old daughter participated in one of Aine's drama camps last summer and loved it so much that she signed up for drama class in the Fall and now again this spring. Aine is wonderful with children, inspires the creative process, and helps build confidence as well as performance skills."
             },
             {
@@ -1088,27 +1088,27 @@
           }
         },
         {
-          "_inherit": "msg-box1",
+          "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#252525",
-              "text-align": "right"
+              "text-align": "center",
+              "color": "#f6faaf",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#252525"
-            },
-            ".mbr-header .mbr-header__text P": {
-              "text-align": "right",
-              "font-size": "30px",
-              "color": "#f6faaf"
+              "color": "#fff"
             }
           },
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-7",
           "_params": {
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": false,
-            "showButtons": false,
+            "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1120,13 +1120,20 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
           },
-          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A Midsummer Night's Dream For Kids</p>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>"
+          "title": "A Midsumer Night's Dream for Kids",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-4s"
         },
         {
           "_name": "gallery1",
@@ -1137,7 +1144,7 @@
             "noGutter": false,
             "showText": true,
             "showBullets": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#1abc9c",
             "images": [
               {
                 "caption": "Titania and Bottom",
@@ -1278,14 +1285,16 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#f6faaf"
+              "color": "#f6faaf",
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1295,7 +1304,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1412,12 +1421,12 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#9365b8",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "header": "What Kids Learned Through Reminiscene Theatre",
+          "header": "What Kids Learned Through Reminiscence Theatre",
           "items": [
             {
               "authorName": "Alie Speckman&nbsp;",
@@ -1493,7 +1502,7 @@
             },
             ".mbr-section__header": {
               "color": "#f6faaf",
-              "font-size": "25px"
+              "font-size": "30px"
             },
             ".mbr-reviews__author-name": {
               "color": "#efefef",
@@ -1506,7 +1515,8 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#f6faaf"
+              "color": "#f6faaf",
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -1528,7 +1538,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#1abc9c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1556,7 +1566,7 @@
             "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#1abc9c",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dscn0699-2000x1500.jpg",
@@ -1635,7 +1645,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#9365b8",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1712,7 +1722,8 @@
           ],
           "_styles": {
             ".mbr-section__header": {
-              "color": "#f6faaf"
+              "color": "#f6faaf",
+              "font-size": "30px"
             },
             ".mbr-reviews__author-name": {
               "color": "#efefef"
@@ -1788,7 +1799,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#1abc9c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1798,7 +1809,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "HOW TO SUPPORT OUR MISSION",
+          "title": "How To Support Our Mission",
           "text": "<p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -1874,7 +1885,12 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-2"
+          "_anchor": "social-buttons2-2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f6faaf"
+            }
+          }
         },
         {
           "_params": {
