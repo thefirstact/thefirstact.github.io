@@ -256,233 +256,6 @@
           "_anchor": "content5-1h"
         },
         {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#f6faaf",
-              "font-size": "30px"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "font-size": "16px",
-              "color": "#ffffff"
-            }
-          },
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-10",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "14",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#1abc9c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/aine1-1-522x480.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "headerAlign": "left",
-          "title": "About",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Aine Healy-Richardson is the executive director and drama teacher at The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Dublin, Ireland with a long history of working with children (including her twenty-five nieces and nephews). &nbsp;She grew up in an Oral Tradition – both her parents were great Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland. Aine was also part of a Community Theatre Group in London, gaining experience on and off stage. &nbsp;Aine spent fourteen years living and working in London where she worked as an Occupational Therapist in Community Mental Health. &nbsp;As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Mental Health for over ten years. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children. &nbsp; But now she puts on plays too, and so much more!</p><p><br></p><p>Having moved to the Jacksonville Beaches &nbsp;in 2001 to marry Wes, Aine has since combined her love for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea , The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School, Atlantic Beach Elementary School and The Jordan Centre.<br></p><p>In 2008 Aine started The First Act and in 2010 formed a collaboration with ABET Theatre where she happily taught classes and camps until 2016.</p><p>In Oct 2016 The First Act was awarded a contract with The City of Atlantic Beach to proivde the children's theatre program at The Adele Grage Theatre in Atlantic Beach FL. &nbsp;TFA are extremely appreciatiave to work in such a perfect environment for Children. &nbsp;A small and intimate stage next to a playground and two blocks from the beautiful ocean. &nbsp;Children walk, bike and skate to class and camp. &nbsp;Thank you City of Atlantic Beach!</p><p>  \n</p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children, and Reminiscence for Seniors. &nbsp; </p><p>This work is a collaborative effort by parents, children and volunteer artists, teachers and technicians. &nbsp;</p><p>Wes Richardson has been a volunteer Technical Director for The First Act since it opened it's doors in 2008 and works on it's behalf in some way or another on a daily basis!</p><p>Anne Roberts has volunteered her skills and expertise to these children for over seven years, passing on her knowledge and creating all kinds of props and set pieces that serve to greatly enhance the experience of story-telling for the children. &nbsp;</p><p>Mary Jo Evans has been volunteering her time at class and backstage for the past three years and brings a calm and nurturing influence to the work and is loved by the kids.</p><p>Rachel Dorrian a silent (and unpaid) partner for many years helped Aine build the program by tirelessly promoting and recommending to other parents and by being there to set up and break down on more occassions than can be counted.<br></p><p>Ingrid McCawley &nbsp;has been a wonderful parent and advocate for this work and this program and has given a tremendous amount of time to it for many years. &nbsp;We are delighted to have her serve as President of it's Board.</p><p>To all the above, and the many many more people who support Aine in this work, she thanks them heartily. &nbsp;</p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but I believe studying drama helps all my students to develop communications skills, gain increased empathy and understanding of others, explore their emotions and, importantly, to have fun with a group of friends\" &nbsp;<br></p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p>Board of Directors<br></p><p>President Ingrid McCawley &nbsp;Vice President Louis Weimer &nbsp; Treasurer Dorris Croasdell &nbsp; Secretary Ginny Brinkley</p><p>Director Renee Faure</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showName": true,
-            "showBio": false,
-            "count": "6",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9365b8",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "header": "What Our Parents Say",
-          "items": [
-            {
-              "authorName": "Brooke Anderson",
-              "authorBio": "User",
-              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\n<div>I cannot thank you enough!</div>"
-            },
-            {
-              "authorName": "Jenny Mons",
-              "authorBio": "User",
-              "text": "Our daughter Maile loves this program. She has found what she loves. Ms Aine is so wonderful at casting the characters, encouraging the children and keeping it fun for the kids. We were amazed with the kids performance and will do it again and again. Thank you!"
-            },
-            {
-              "authorName": "Jana Light",
-              "authorBio": "User",
-              "text": "Ollie's first stage performance, playing Mr Shakespeare himself. He is born for the stage and BIG thank you to Aine Healy-Richardson and The First Act Theatre camp for making his first thespian experience absolutely amazingly magical. We want to join a class!!"
-            },
-            {
-              "authorName": "Lisa Peterson",
-              "authorBio": "Developer",
-              "text": "\"We moved here from Los Angeles where our daughter had been involved in theater productions for the last three years. We were skeptical to find a program that was age appropriate and had the solid professional foundation we had in our LA program. Well, we found a great program and a great teacher in Aine! Her enthusiasm and energy just brought our daughter right in and captured her attention and imagination throughout the entire program. We look forward to seeing just what Aine has planned next."
-            },
-            {
-              "authorName": "Shelly Baesler",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work.</p>"
-            },
-            {
-              "authorName": "Patricia Szegi",
-              "authorBio": "Developer",
-              "text": "When we signed our grand-daughter up for Aine's program, our focus was less on acting and more on helping her to become more confident in a group and to 'bring her out of her shell. Well, she is out!! She is about to start her 8th semester in Drama with Aine and not only is she a more confident child, she has truly blossomed in many ways. Aine has a gift for finding just the right level for each child's development and challenging them to really become involved in the learning process. Aine's own enthusiasm for her work is contagious. As a teacher for over twenty years myself, I am able to recognize the bond that Aine is able to create with all the children in her program and I feel lucky that my grand-daughter is one of them.&nbsp;"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": ""
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-42",
-          "testimonial": [
-            {
-              "authorName": "Brooke Anderson",
-              "authorBio": "User",
-              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\n<div>I cannot thank you enough!</div>"
-            },
-            {
-              "authorName": "Jenny Mons",
-              "authorBio": "User",
-              "text": "Our daughter Maile loves this program. She has found what she loves. Ms Aine is so wonderful at casting the characters, encouraging the children and keeping it fun for the kids. We were amazed with the kids performance and will do it again and again. Thank you!"
-            },
-            {
-              "authorName": "Jana Light",
-              "authorBio": "User",
-              "text": "Ollie's first stage performance, playing Mr Shakespeare himself. He is born for the stage and BIG thank you to Aine Healy-Richardson and The First Act Theatre camp for making his first thespian experience absolutely amazingly magical. We want to join a class!!"
-            },
-            {
-              "authorName": "Lisa Peterson",
-              "authorBio": "Developer",
-              "text": "\"We moved here from Los Angeles where our daughter had been involved in theater productions for the last three years. We were skeptical to find a program that was age appropriate and had the solid professional foundation we had in our LA program. Well, we found a great program and a great teacher in Aine! Her enthusiasm and energy just brought our daughter right in and captured her attention and imagination throughout the entire program. We look forward to seeing just what Aine has planned next."
-            },
-            {
-              "authorName": "Shelly Baesler",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work.</p>"
-            },
-            {
-              "authorName": "Patricia Szegi",
-              "authorBio": "Developer",
-              "text": "When we signed our grand-daughter up for Aine's program, our focus was less on acting and more on helping her to become more confident in a group and to 'bring her out of her shell. Well, she is out!! She is about to start her 8th semester in Drama with Aine and not only is she a more confident child, she has truly blossomed in many ways. Aine has a gift for finding just the right level for each child's development and challenging them to really become involved in the learning process. Aine's own enthusiasm for her work is contagious. As a teacher for over twenty years myself, I am able to recognize the bond that Aine is able to create with all the children in her program and I feel lucky that my grand-daughter is one of them.&nbsp;"
-            }
-          ],
-          "_styles": {
-            ".mbr-section__header": {
-              "color": "#f6faaf",
-              "font-size": "30px"
-            },
-            ".mbr-reviews__author-name": {
-              "color": "#efefef"
-            },
-            ".mbr-reviews__text": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#1abc9c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#9365b8",
-            "overlayOpacity": 0.2
-          },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-1o"
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#f6faaf",
@@ -674,6 +447,53 @@
           }
         },
         {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1abc9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#9365b8",
+            "overlayOpacity": 0.2
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-1o"
+        },
+        {
           "_params": {
             "fullWidth": false,
             "paddingTop": 3,
@@ -747,53 +567,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-1y"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#00a885",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#1abc9c",
-            "overlayOpacity": 0.2
-          },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-1v"
         },
         {
           "_params": {
@@ -993,7 +766,7 @@
             },
             {
               "authorName": "",
-              "authorBio": "John Lucas<br><br>",
+              "authorBio": "<b>John Lucas</b><br><br>",
               "text": "My eight year old daughter participated in one of Aine's drama camps last summer and loved it so much that she signed up for drama class in the Fall and now again this spring. Aine is wonderful with children, inspires the creative process, and helps build confidence as well as performance skills."
             },
             {
@@ -1084,6 +857,186 @@
             ".mbr-reviews__author-bio": {
               "color": "#efefef",
               "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f6faaf",
+              "font-size": "30px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-10",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "14",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1abc9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/aine1-1-522x480.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "About",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Aine Healy-Richardson is the executive director and drama teacher at The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Dublin, Ireland with a long history of working with children (including her twenty-five nieces and nephews). &nbsp;She grew up in an Oral Tradition – both her parents were great Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland. Aine was also part of a Community Theatre Group in London, gaining experience on and off stage. &nbsp;Aine spent fourteen years living and working in London where she worked as an Occupational Therapist in Community Mental Health. &nbsp;As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Mental Health for over ten years. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children. &nbsp; But now she puts on plays too, and so much more!</p><p><br></p><p>Having moved to the Jacksonville Beaches &nbsp;in 2001 to marry Wes, Aine has since combined her love for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea , The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School, Atlantic Beach Elementary School and The Jordan Centre.<br></p><p>In 2008 Aine started The First Act and in 2010 formed a collaboration with ABET Theatre where she happily taught classes and camps until 2016.</p><p>In Oct 2016 The First Act was awarded a contract with The City of Atlantic Beach to proivde the children's theatre program at The Adele Grage Theatre in Atlantic Beach FL. &nbsp;TFA are extremely appreciatiave to work in such a perfect environment for Children. &nbsp;A small and intimate stage next to a playground and two blocks from the beautiful ocean. &nbsp;Children walk, bike and skate to class and camp. &nbsp;Thank you City of Atlantic Beach!</p><p>  \n</p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children, and Reminiscence for Seniors. &nbsp; </p><p>This work is a collaborative effort by parents, children and volunteer artists, teachers and technicians. &nbsp;</p><p>Wes Richardson has been a volunteer Technical Director for The First Act since it opened it's doors in 2008 and works on it's behalf in some way or another on a daily basis!</p><p>Anne Roberts has volunteered her skills and expertise to these children for over seven years, passing on her knowledge and creating all kinds of props and set pieces that serve to greatly enhance the experience of story-telling for the children. &nbsp;</p><p>Mary Jo Evans has been volunteering her time at class and backstage for the past three years and brings a calm and nurturing influence to the work and is loved by the kids.</p><p>Rachel Dorrian a silent (and unpaid) partner for many years helped Aine build the program by tirelessly promoting and recommending to other parents and by being there to set up and break down on more occassions than can be counted.<br></p><p>Ingrid McCawley &nbsp;has been a wonderful parent and advocate for this work and this program and has given a tremendous amount of time to it for many years. &nbsp;We are delighted to have her serve as President of it's Board.</p><p>To all the above, and the many many more people who support Aine in this work, she thanks them heartily. &nbsp;</p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but I believe studying drama helps all my students to develop communications skills, gain increased empathy and understanding of others, explore their emotions and, importantly, to have fun with a group of friends\" &nbsp;<br></p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p>Board of Directors<br></p><p>President Ingrid McCawley &nbsp;Vice President Louis Weimer &nbsp; Treasurer Dorris Croasdell &nbsp; Secretary Ginny Brinkley</p><p>Director Renee Faure</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": false,
+            "count": "6",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What Our Parents Say",
+          "items": [
+            {
+              "authorName": "Brooke Anderson",
+              "authorBio": "User",
+              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\n<div>I cannot thank you enough!</div>"
+            },
+            {
+              "authorName": "Jenny Mons",
+              "authorBio": "User",
+              "text": "Our daughter Maile loves this program. She has found what she loves. Ms Aine is so wonderful at casting the characters, encouraging the children and keeping it fun for the kids. We were amazed with the kids performance and will do it again and again. Thank you!"
+            },
+            {
+              "authorName": "Jana Light",
+              "authorBio": "User",
+              "text": "Ollie's first stage performance, playing Mr Shakespeare himself. He is born for the stage and BIG thank you to Aine Healy-Richardson and The First Act Theatre camp for making his first thespian experience absolutely amazingly magical. We want to join a class!!"
+            },
+            {
+              "authorName": "Lisa Peterson",
+              "authorBio": "Developer",
+              "text": "\"We moved here from Los Angeles where our daughter had been involved in theater productions for the last three years. We were skeptical to find a program that was age appropriate and had the solid professional foundation we had in our LA program. Well, we found a great program and a great teacher in Aine! Her enthusiasm and energy just brought our daughter right in and captured her attention and imagination throughout the entire program. We look forward to seeing just what Aine has planned next."
+            },
+            {
+              "authorName": "Shelly Baesler",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work.</p>"
+            },
+            {
+              "authorName": "Patricia Szegi",
+              "authorBio": "Developer",
+              "text": "When we signed our grand-daughter up for Aine's program, our focus was less on acting and more on helping her to become more confident in a group and to 'bring her out of her shell. Well, she is out!! She is about to start her 8th semester in Drama with Aine and not only is she a more confident child, she has truly blossomed in many ways. Aine has a gift for finding just the right level for each child's development and challenging them to really become involved in the learning process. Aine's own enthusiasm for her work is contagious. As a teacher for over twenty years myself, I am able to recognize the bond that Aine is able to create with all the children in her program and I feel lucky that my grand-daughter is one of them.&nbsp;"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": ""
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-42",
+          "testimonial": [
+            {
+              "authorName": "Brooke Anderson",
+              "authorBio": "User",
+              "text": "I think this week may have been life changing for Bennett! With all the extracurriculars that he has been involved in, acting camp now tops his list. It was gratifying for him to push himself outside of his comfort zone. Thank you for creating an emotionally safe environment for him to do so. The play was magnificent!\n<div>I cannot thank you enough!</div>"
+            },
+            {
+              "authorName": "Jenny Mons",
+              "authorBio": "User",
+              "text": "Our daughter Maile loves this program. She has found what she loves. Ms Aine is so wonderful at casting the characters, encouraging the children and keeping it fun for the kids. We were amazed with the kids performance and will do it again and again. Thank you!"
+            },
+            {
+              "authorName": "Jana Light",
+              "authorBio": "User",
+              "text": "Ollie's first stage performance, playing Mr Shakespeare himself. He is born for the stage and BIG thank you to Aine Healy-Richardson and The First Act Theatre camp for making his first thespian experience absolutely amazingly magical. We want to join a class!!"
+            },
+            {
+              "authorName": "Lisa Peterson",
+              "authorBio": "Developer",
+              "text": "\"We moved here from Los Angeles where our daughter had been involved in theater productions for the last three years. We were skeptical to find a program that was age appropriate and had the solid professional foundation we had in our LA program. Well, we found a great program and a great teacher in Aine! Her enthusiasm and energy just brought our daughter right in and captured her attention and imagination throughout the entire program. We look forward to seeing just what Aine has planned next."
+            },
+            {
+              "authorName": "Shelly Baesler",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">This drama class is the BEST!! My daughter has been taking drama here for three years and LOVES it. Thanks for all your hard work.</p>"
+            },
+            {
+              "authorName": "Patricia Szegi",
+              "authorBio": "Developer",
+              "text": "When we signed our grand-daughter up for Aine's program, our focus was less on acting and more on helping her to become more confident in a group and to 'bring her out of her shell. Well, she is out!! She is about to start her 8th semester in Drama with Aine and not only is she a more confident child, she has truly blossomed in many ways. Aine has a gift for finding just the right level for each child's development and challenging them to really become involved in the learning process. Aine's own enthusiasm for her work is contagious. As a teacher for over twenty years myself, I am able to recognize the bond that Aine is able to create with all the children in her program and I feel lucky that my grand-daughter is one of them.&nbsp;"
+            }
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#f6faaf",
+              "font-size": "30px"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#efefef"
+            },
+            ".mbr-reviews__text": {
+              "color": "#000000"
             }
           }
         },
