@@ -18,7 +18,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 174,
+    "uniqCompNum": 176,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -291,8 +291,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.2"
           },
-          "title": "<br>Summer Camp Program 2018",
-          "text": "<p><b>&nbsp;</b><b>All camps are held at</b></p><p><b>The Adele Grage Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><br><p><b>Junior camps</b></p><p><b>June 4&nbsp;– 8 &nbsp;(One Week) &nbsp;</b><b>2nd – 4th Grade&nbsp;</b></p><p><b>June 25- 29 &nbsp;(One Week) &nbsp; 2nd- 4th Grade\n<br></b></p><p><b>July 23 – 27 (One Week) &nbsp; 2nd - 4th  Grade\n<br>$170 plus $20 Production Fee\n<br></b></p><b><br></b><b>Senior Camps<br></b><p><b>June 11 - 22&nbsp;(Two Weeks) &nbsp; 5th Grade Up\n<br></b></p><p><b>July 9 - July 20 (Two Weeks) &nbsp; 5th  Grade Up\n<br></b></p><p><b>July 30 – Aug10(Two Weeks) &nbsp; 5th Grade up\n<br>$340 plus $30 Production Fee\n<br></b></p><br><p><b>Deposit of $50 per week at registration to secure booking.\n<br>Camps run from    9am – 1pm Mon – Fri\n<br>Cooler Bag lunch, a drink and comfortable clothes required.<br>Each one week camp culminates in a short play at noon on the last day of camp. <br>Each two week camp culminates in a short play at noon&nbsp;and 7:00pm on the last day of camp.&nbsp;<br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Line learning is required unless a non-speaking or small part is requested.\n<br>Grades are rising. Camps are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior camps depending on experience.</b><br><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><br><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email <a href=\"mailto:ainehealy@thefirstactcct.org\" class=\"text-info\">ainehealy@thefirstactcct.org</a> for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
+          "title": "<br>Fall Program 2018",
+          "text": "<p><b>&nbsp;</b><b>All classes are held at:</b></p><p><b>The Adele Grage Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><br><p><b>Introductory Class 1st - 3rd Grade</b></p><p><b>Saturday 11:15am - 1:15pm</b></p><p><b>Intermediate Class - 4th -6th Grade</b><br></p><p>Saturday 9:00am to 11:00am<b><br></b></p><p><b>Advanced Class 6-9th Grade</b><br></p><p><b>Monday 5:00pm - 7:00pm</b></p><br><p><b>Homeschool class Thursdays 12:30 - 2:30</b></p><p><b>To register for this class contact Michelle Carter at Spring River School&nbsp;</b></p><p><b>&nbsp;</b><br></p><br><p><b><br>Each class culminates in a short play or showcase at the theatre.<br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Line learning is required unless a non-speaking or small part is requested.\n<br>Grades are rising. Classes are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior camps depending on experience.</b><br><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><br><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email <a href=\"mailto:ainehealy@thefirstactcct.org\" class=\"text-info\">ainehealy@thefirstactcct.org</a> for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
@@ -351,6 +351,95 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-12"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/-storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219-800x488.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7405-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7405-2000x2667-800x1067.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20180811-143442-1534034238160-1840x1278.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20180811-143442-1534034238160-1840x1278-800x556.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7409-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7409-2000x2667-800x1067.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-4314-1-1013x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4314-1-1013x1024-800x809.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7451-2000x1622.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7451-2000x1622-800x649.jpg",
+                "alt": "",
+                "caption": "The Tempest",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20180811-142153-1534034096377-1411x605.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20180811-142153-1534034096377-1411x605-800x343.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7420-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7420-2000x2667-800x1067.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7436-2000x2333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7436-2000x2333-800x933.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7400-1954x2904.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7400-1954x2904-800x1189.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-4v"
         },
         {
           "_params": {
@@ -1686,44 +1775,6 @@
             },
             ".mbr-reviews__text": {
               "color": "#000000"
-            }
-          }
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20180120-93800-2000x1125.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Fall Classes 2018",
-          "text": "Middle School Class -&nbsp;Sept 10th - Dec 10th<br>Mon 5:00pm to 7:00pm<br><br>4th - 5th Grade Class - Sept 8th - Dec 8th<br>Sat 9:00am - 11:00pm<br><br>2nd -3rd Grade Class - Sept 8th - Dec 1st&nbsp;<br>Sat 11:15am - 1:15pm<br><br>Homeschool Class Dates coming soon!!<br><br><br><br>Individual Work<br>Aine also works individually with children and young adults preparing for audition, performance and presentation and has had great success helping her students secure coveted places at LaVilla SOTA and Douglas Anderson SOTA. &nbsp;Call or email her with questions. &nbsp;Tel (904) 509 1472.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-23",
-          "_styles": {
-            "H1": {
-              "color": "#f6faaf"
-            },
-            "P": {
-              "font-size": "16px"
             }
           }
         },
