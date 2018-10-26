@@ -76,6 +76,18 @@
   color: #f6faaf;
   font-size: 30px;
 }
+#msg-box4-52 .mbr-header__text {
+  color: #f7da64;
+}
+#msg-box4-52 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-52 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-52 .mbr-article P {
+  color: #f7da64;
+}
 #gallery1-m SMALL {
   font-size: 16px;
 }

@@ -18,7 +18,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 176,
+    "uniqCompNum": 183,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -353,12 +353,83 @@
           "_anchor": "content5-12"
         },
         {
+          "_inherit": "msg-box5",
           "_params": {
-            "fullWidth": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/20180929-91945-1400x899.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Snapshots in time",
+          "text": "<p>Based on stories told to the children from their Grandparents and Great Grandparents, the children will perform vignettes from the 1940's, 50's and 60's on Sat Dec 1st and Sat Dec 8th at &nbsp;12 noon and 7:00pm. &nbsp; Seating is free once parents and guests are seated. &nbsp;At the Adele Grage Theatre. &nbsp;We especially welcome older audience members to this show.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f7da64"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-52"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": true,
-            "showText": true,
+            "showText": false,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
