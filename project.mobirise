@@ -18,7 +18,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 183,
+    "uniqCompNum": 189,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -292,13 +292,180 @@
             "overlayOpacity": "0.2"
           },
           "title": "<br>Fall Program 2018",
-          "text": "<p><b>&nbsp;</b><b>All classes are held at:</b></p><p><b>The Adele Grage Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><br><p><b>Introductory Class 1st - 3rd Grade</b></p><p><b>Saturday 11:15am - 1:15pm</b></p><p><b>Intermediate Class - 4th -6th Grade</b><br></p><p>Saturday 9:00am to 11:00am<b><br></b></p><p><b>Advanced Class 6-9th Grade</b><br></p><p><b>Monday 5:00pm - 7:00pm</b></p><br><p><b>Homeschool class Thursdays 12:30 - 2:30</b></p><p><b>To register for this class contact Michelle Carter at Spring River School&nbsp;</b></p><p><b>&nbsp;</b><br></p><br><p><b><br>Each class culminates in a short play or showcase at the theatre.<br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Line learning is required unless a non-speaking or small part is requested.\n<br>Grades are rising. Classes are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior camps depending on experience.</b><br><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><br><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email <a href=\"mailto:ainehealy@thefirstactcct.org\" class=\"text-info\">ainehealy@thefirstactcct.org</a> for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
+          "text": "<p><b>&nbsp;</b><b>All classes are held at:</b></p><p><b>The Adele Grage Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><br><p><b>Introductory Class 1st - 3rd Grade</b></p><p><b>Saturday 11:15am - 1:15pm</b></p><p><b>Intermediate Class - 4th -6th Grade</b><br></p><p>Saturday 9:00am to 11:00am<b><br></b></p><p><b>Advanced Class 6-9th Grade</b><br></p><p><b>Monday 5:00pm - 7:00pm</b></p><br><p><b>Homeschool class Thursdays 12:30 - 2:30&nbsp;</b></p><p><b>To register for this class contact Michelle Carter at Spring River School&nbsp;</b></p>mcarter@theplaygarden.org&nbsp;<br><p><b><br>Each class culminates in a short play or showcase at the theatre.<br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Line learning is required unless a non-speaking or small part is requested.\n<br>Grades are rising. Classes are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior camps depending on experience.</b><br><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><br><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email <a href=\"mailto:ainehealy@thefirstactcct.org\" class=\"text-info\">ainehealy@thefirstactcct.org</a> for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-y"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/47157261-2018698801551431-7049761050526220288-n-1-648x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Snapshots in time - A Reminiscence Theatre Project",
+          "text": "<p>A series of vignettes based on the recollections of childhood and the teenage years of their Grandparents, Great Grandparents and friends. &nbsp;Spanning three decades, from 1941 - 1961 the cast portray and pay tribute to their familie's stories. &nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f7da64"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f7da64"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-52"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/17684-1-2000x929.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17684-1-2000x929-800x341.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/39626-2000x882.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/39626-2000x882-800x326.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/54105-2000x780.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/54105-2000x780-800x301.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/83790-2000x707.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/83790-2000x707-800x279.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/83015-2000x757.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/83015-2000x757-800x307.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5742-2000x1419.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5742-2000x1419-800x574.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5752-2000x1210.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5752-2000x1210-800x467.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5734-2000x1623.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5734-2000x1623-800x649.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5766-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5766-2000x1335-800x499.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/9191-2000x890.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9191-2000x890-800x353.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/32372-2000x911.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/32372-2000x911-800x355.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-53"
         },
         {
           "_inherit": "msg-box3",
@@ -361,13 +528,13 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#f97352",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -381,7 +548,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/20180929-91945-1400x899.jpg",
+              "src": "@PROJECT_PATH@/assets/images/203860183001201-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -398,30 +565,170 @@
               "size": 0
             }
           },
-          "title": "Snapshots in time",
-          "text": "<p>Based on stories told to the children from their Grandparents and Great Grandparents, the children will perform vignettes from the 1940's, 50's and 60's on Sat Dec 1st and Sat Dec 8th at &nbsp;12 noon and 7:00pm. &nbsp; Seating is free once parents and guests are seated. &nbsp;At the Adele Grage Theatre. &nbsp;We especially welcome older audience members to this show.</p>",
+          "title": "Sherlock Holmes and the Emerald of Alkazar",
+          "text": "<p>By Geoff Bamber</p><p>Directed by Aine Healy-Richardson</p><p>Spring '18</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-55"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/22604-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22604-1920x1080-800x412.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/12640-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12640-1920x1080-800x379.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29958-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29958-1920x1080-800x458.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/31558-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/31558-1920x1080-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/40441-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/40441-1920x1080-800x449.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/69580-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/69580-1920x1080-800x444.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/49606-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/49606-1920x1080-800x452.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/74208-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/74208-1920x1080-800x444.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-57"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            ".mbr-article P": {
-              "color": "#f7da64"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-4314-1-1013x1024.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "The Tempest<br>Written by Geoff Bamber<br>Based on the original play<br>By William Shakespeare<br><br>",
+          "text": "Summer '18",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
             }
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-52"
+          "_anchor": "msg-box4-58"
         },
         {
           "_params": {
@@ -473,7 +780,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-7451-2000x1622-800x649.jpg",
                 "alt": "",
                 "caption": "The Tempest",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20180811-142153-1534034096377-1411x605.jpg",
@@ -501,7 +808,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-7400-1954x2904-800x1189.jpg",
                 "alt": "",
                 "caption": "",
-                "active": false
+                "active": true
               }
             ]
           },
