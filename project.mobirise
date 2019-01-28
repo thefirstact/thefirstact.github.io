@@ -14,11 +14,12 @@
         "#e47165",
         "#777777",
         "#f68572",
-        "#f6faaf"
+        "#f6faaf",
+        "#8538c3"
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 189,
+    "uniqCompNum": 199,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -209,6 +210,116 @@
           "_anchor": "content5-1g"
         },
         {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cimg8745-2000x1024.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.1"
+          },
+          "title": "Spring Break Worhksops!!",
+          "text": "<br>If your child would like to try out drama for the first time, or as a taster for Summer Camps, this is the workshop for you. If they already love drama but can't make it to regular classes this is a great opportunity to have fun and make friends in a creative, loving and fun atmosphere.\n<br>Workshops will include theatre games, improv, physical theatre and stage stills. \n<br>Each day is&nbsp;9am to 1:00pm <br>Mon 11th March for 1-3rd grade&nbsp;<br>Tues 12th March 3rd - 5th grade\n<br>Wed 13th March &nbsp;3rd - 5th grade\n<br>Cost per student is $35. Please email Aine at aine@thefirstcct.org for a registration form. Places are limited so book early.<br>Comfortable clothes and a cooler lunch are all that's needed.<br>Please let us know if you need a longer day until 3:00pm<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5d",
+          "_styles": {
+            "H1": {
+              "color": "#f6faaf"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/adele-1-275x183.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Summer Camp Dates 2019",
+          "text": "<p>June 3rd - June 7th &nbsp; &nbsp; 1st-3rd Grade<br></p><p>June 10th - June14th &nbsp; &nbsp; 3rd-5th Grade\n</p><p>June 17th - 28th &nbsp; &nbsp; &nbsp; &nbsp;4th-6th Grade\n</p><p>July 1st - 5th &nbsp; &nbsp; &nbsp; &nbsp;1st - 3rd Grade\n</p><p>July 8th - 12th &nbsp; &nbsp; &nbsp;1st - 3rd Grade\n</p><p>July 15th - July 26th &nbsp; &nbsp; 4th-6th Grade\n</p><p>July 29th - Aug 9th &nbsp; &nbsp; &nbsp;6th-9th Grade\n</p><p>One week camps $180 plus $20 production fee\n</p><p>$50 deposit required in advance for one week camps</p><p>Two week camps $270 plus $30 production fee.</p><p>$100 deposit required in advance for two week camps</p><p>All camps run Mon-Fri from 9:00am to 1:00pm</p><p>For more information and to request a Registration Form please contact&nbsp;</p><p>Aine@thefirstactcct.org<br></p><p>All camps held at The Adele Grage Cultural Center Theatre, 716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f6faaf",
+              "font-size": "46px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#f6faaf"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5i"
+        },
+        {
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -262,11 +373,12 @@
               "font-size": "36px"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#ffffff"
             },
             ".mbr-article P": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#f6faaf",
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-article B": {
               "color": "#ffffff"
@@ -280,7 +392,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/ar-801259855-2000x1334.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#3C3C3C",
             "bgVideoRadio": false,
@@ -289,10 +401,10 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.4"
           },
-          "title": "<br>Fall Program 2018",
-          "text": "<p><b>&nbsp;</b><b>All classes are held at:</b></p><p><b>The Adele Grage Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><br><p><b>Introductory Class 1st - 3rd Grade</b></p><p><b>Saturday 11:15am - 1:15pm</b></p><p><b>Intermediate Class - 4th -6th Grade</b><br></p><p>Saturday 9:00am to 11:00am<b><br></b></p><p><b>Advanced Class 6-9th Grade</b><br></p><p><b>Monday 5:00pm - 7:00pm</b></p><br><p><b>Homeschool class Thursdays 12:30 - 2:30&nbsp;</b></p><p><b>To register for this class contact Michelle Carter at Spring River School&nbsp;</b></p>mcarter@theplaygarden.org&nbsp;<br><p><b><br>Each class culminates in a short play or showcase at the theatre.<br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Line learning is required unless a non-speaking or small part is requested.\n<br>Grades are rising. Classes are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior camps depending on experience.</b><br><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><br><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email <a href=\"mailto:ainehealy@thefirstactcct.org\" class=\"text-info\">ainehealy@thefirstactcct.org</a> for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
+          "title": "<br><br>Spring Program 2019<br>",
+          "text": "<p><b>All classes held at</b><b>:</b></p><p><b>The Adele Grage Cultural Center Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><b><br></b><p><b>Introductory Class 1st - 3rd Grade</b></p><p><b>Saturday 11:15am - 1:15pm</b></p><br><p><b>Intermediate Class - 4th -6th Grade</b><br></p><p><b>Saturday 9:00am to 11:00am<br></b></p><p><b>Advanced Class 6-9th Grade<br></b></p><p><b>Monday 5:00pm - 7:00pm</b></p><b><br></b><p><b>Homeschool Class Thursdays with Miss Aine 12:30 - 2:30&nbsp;</b></p><p><b>To register for this class contact Michelle Carter at Spring River School&nbsp;</b></p><b>mcarter@theplaygarden.org&nbsp;<br></b><p><b><br>Each class culminates in a short play or showcase at the theatre.<br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Line learning is required unless a non-speaking or small part is requested.\n<br>Grades are rising. Classes are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior classes and camps depending on experience.<br></b><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><b><br></b><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email <a href=\"mailto:ainehealy@thefirstactcct.org\" class=\"text-info\">ainehealy@thefirstactcct.org</a> for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
@@ -329,7 +441,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/47157261-2018698801551431-7049761050526220288-n-1-648x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/47157261-2018698801551431-7049761050526220288-n-3-648x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -346,7 +458,7 @@
               "size": 0
             }
           },
-          "title": "Snapshots in time - A Reminiscence Theatre Project",
+          "title": "Snapshots in time - Fall 2018<br>A Reminiscence Theatre Project",
           "text": "<p>A series of vignettes based on the recollections of childhood and the teenage years of their Grandparents, Great Grandparents and friends. &nbsp;Spanning three decades, from 1941 - 1961 the cast portray and pay tribute to their familie's stories. &nbsp;</p>",
           "_tags": [
             "Theme"
@@ -671,13 +783,13 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#1abc9c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -691,7 +803,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-4314-1-1013x1024.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-tempest-web-473x598.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -738,7 +850,7 @@
             "noGutter": true,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#9365b8",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/-storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219.jpg",
