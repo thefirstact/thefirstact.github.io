@@ -778,13 +778,13 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#9365b8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -831,7 +831,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "color": "#f6faaf"
+              "color": "#f6faaf",
+              "font-size": "25px"
             }
           },
           "headerAlign": "left",
@@ -971,13 +972,13 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#f97352",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -991,7 +992,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/the-tempest-web-473x598.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-tempest-web-1-473x598.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1033,8 +1034,8 @@
         {
           "_params": {
             "fullWidth": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "noGutter": true,
             "showText": false,
             "showBullets": true,
@@ -1704,7 +1705,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#f97352",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1748,7 +1749,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#1abc9c",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1879,7 +1880,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#9365b8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1984,7 +1985,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/2015-04-01-17.22.08-2000x1131.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#f97352",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -2305,7 +2306,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#f97352",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2333,7 +2334,7 @@
             "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#f97352",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dscn0699-2000x1500.jpg",
@@ -2406,13 +2407,13 @@
             "showName": true,
             "showBio": false,
             "count": "6",
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#1abc9c",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
