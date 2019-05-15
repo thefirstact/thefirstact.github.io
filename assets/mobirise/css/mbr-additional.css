@@ -93,6 +93,18 @@
 #msg-box1-y .mbr-article B {
   color: #f6faaf;
 }
+#msg-box4-69 .mbr-header__text {
+  color: #f6faaf;
+}
+#msg-box4-69 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-69 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-69 .mbr-article P {
+  color: #8538c3;
+}
 #content5-5y .mbr-header .mbr-header__text {
   text-align: center;
   color: #f6faaf;

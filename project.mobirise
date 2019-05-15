@@ -19,7 +19,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 224,
+    "uniqCompNum": 227,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -461,6 +461,187 @@
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-y"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sleeping-beauty-image-476x268.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Sleeping Beauty<br>Written by Geoff Bamber",
+          "text": "<p>Spring 19 Semester class&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f6faaf"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#8538c3"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-69"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5793-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5793-1280x853-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/56998317-10157285169674533-7258020952397578240-n-528x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/56998317-10157285169674533-7258020952397578240-n-528x960-528x960.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5795-853x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5795-853x1280-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5796-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5796-1280x853-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/57076181-10157285185419533-4614858410121232384-n-1-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/57076181-10157285185419533-4614858410121232384-n-1-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/57232179-10157285166609533-1797491728031154176-n-528x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/57232179-10157285166609533-1797491728031154176-n-528x960-528x960.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5808-1280x1016.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5808-1280x1016-800x635.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5803-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5803-1280x853-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/57395666-10157285163089533-419893663762481152-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/57395666-10157285163089533-419893663762481152-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5815-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5815-1280x853-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5816-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5816-1280x853-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5821-1280x858.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5821-1280x858-800x536.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/56973917-2569972483077754-2336605145535610880-o-1932x1449.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/56973917-2569972483077754-2336605145535610880-o-1932x1449-800x620.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-68"
         },
         {
           "_inherit": "msg-box3",
