@@ -19,7 +19,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 227,
+    "uniqCompNum": 233,
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -277,8 +277,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "Summer Camp Info 2019",
-          "text": "If your child would like to try out drama for the first time, or if they already love drama but can't make it to regular classes this is a great opportunity to have fun and make friends in a creative, loving and fun atmosphere.\n<br>Workshops are one and two weeks long depending on age and all will include theatre games, improv, physical theatre and stage stills training.\n<br>Each camp culminates in a play at 1:00pm on the last day, with lights sets and costumes.<br>All children are cast and will be given a script and lines to memorize.<br>Smaller parts can be given to children who do not want a lot of lines.<br>Each day is 9am to 1:00pm. &nbsp;<br>&nbsp;Please email Aine at aine@thefirstactcct.org for a registration form. Places are limited so book early.\n<br>Comfortable clothes and a cooler lunch are all that's needed.\n<br>Scroll down for Dates, Rates, Time and Location",
+          "title": "",
+          "text": "<b>Winter &nbsp;Camp Info 2019\n</b><br><br>If your child already attends the program, or they would like to try out drama for the first time, this is a great opportunity to have fun and make friends in a creative, loving and fun atmosphere.\n<br>Workshops are stand alone days but multiple days can be booked as each workshop has a different theme and all will include theatre games, improv, physical theatre and stage stills training.\n<br><br><br>Each day is 9am to 1:00pm.  \n<br> Please email Aine at aine@thefirstactcct.org for a registration form. Places are limited so book early.\n<br>Comfortable clothes and a cooler lunch are all that's needed.\n<br>Scroll down for Dates, Rates, Time and Location",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -292,7 +292,11 @@
             },
             "P": {
               "color": "#f6faaf",
-              "font-size": "16px"
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "46px"
             }
           }
         },
@@ -372,7 +376,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/adele-1-275x183.jpg",
+              "src": "@PROJECT_PATH@/assets/images/adele-grage-318x159.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -389,8 +393,8 @@
               "size": 0
             }
           },
-          "title": "Summer Camp Dates 2019",
-          "text": "<p>June 3rd - June 7th &nbsp; &nbsp; &nbsp; &nbsp;1st-3rd Grade<br></p><p>June 10th - June14th &nbsp; &nbsp; 3rd-5th Grade\n</p><p>June 17th - 28th &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4th-6th Grade\n</p><p>July 8th - 19th &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4-8th Grade<br></p><p>July 22nd - July 26th &nbsp; &nbsp; &nbsp; 2nd-5th Grade\n</p><p>July 29th - Aug 9th &nbsp; &nbsp; &nbsp; &nbsp; 6th-10th Grade\n</p><p>One week camps $180 plus $20 production fee = $200</p><p>$50 deposit required in advance for one week camps</p><p>Two week camps $370 plus $30 production fee = $400</p><p>$100 deposit required in advance for two week camps</p><p>Please note all grades are suggested but we are open to considering children based on age, experience, maturity and sibling attendance!</p><p>All camps run Mon-Fri from 9:00am to 1:00pm</p><p>For more information and to request a Registration Form please contact&nbsp;</p><p>aine@thefirstactcct.org<br></p><p>All camps held at The Adele Grage Cultural Center Theatre, 716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p>",
+          "title": "Winter Workshops 2019/20",
+          "text": "<p><br></p><p>Workshops on 30th and 31st December are 4-6th Grade</p><p>Workshops on Jan 2nd and 3rd are 1-3rd Grade</p><p>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!</p><p>All workshops from 9:00am to 1:00pm</p><p><br></p><p>For more information and to request a Registration Form please contact&nbsp;</p><p>aine@thefirstactcct.org<br></p><p>All camps held at The Adele Grage Cultural Center Theatre, 716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p>",
           "_tags": [
             "Theme"
           ],
@@ -454,13 +458,343 @@
             "overlayOpacity": "0.4"
           },
           "title": "<br>Fall Program 2019<br>",
-          "text": "<p><b>All classes held at</b><b>:</b></p><p><b>The Adele Grage Cultural Center Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><p><b>Introductory Class 1st - 3rd Grade</b></p><p><b>Saturday 11:15am - 1:15pm</b></p><b>Tuition cost is $270<br></b><p><b>Class runs from Sept 7th to Nov 23rd<br></b></p><br><p><b>Intermediate Class - 4th -6th Grade</b><br></p><p><b>Saturday 9:00am to 11:00am</b></p><p><b>Class runs from Sept 7th to Dec 7th</b></p><p><b>Show/Play on Dec 7th at 7:00pm</b></p><p><b>Advanced Class 6-9th Grade<br></b></p><p><b>Monday 5:00pm - 7:00pm</b></p><p><b>Class runs from Sept 9th to Dec 14th</b></p><p><b>Show on Dec 14th at 7:00pm</b></p><p><b>Tuition cost is $300</b></p><p><b>Both classes have extended rehearsals or extra rehearsals close to the time of the performance. &nbsp;These extra hours are free of charge.<br><br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Classes are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior classes and camps depending on experience.<br></b><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><b><br></b><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email aine@thefirstactcct.org for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
+          "text": "<p><b>All classes held at</b><b>:</b></p><p><b>The Adele Grage Cultural Center Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><p><b>Introductory Class 1st - 3rd Grade</b></p><p><b>Saturday 11:15am - 1:15pm</b></p><b>Tuition cost is $280<br></b><p><b>Class runs from Sept 7th to Nov 23rd<br></b></p><br><p><b>Intermediate Class - 4th -6th Grade</b><br></p><p><b>Saturday 9:00am to 11:00am</b></p><p><b>Class runs from Sept 7th to Dec 7th</b></p><p><b>Show/Play on Dec 7th at 7:00pm</b></p><p><b>Advanced Class 6-9th Grade<br></b></p><p><b>Monday 5:00pm - 7:00pm</b></p><p><b>Class runs from Sept 9th to Dec 14th</b></p><p><b>Show on Dec 14th at 7:00pm</b></p><p><b>Tuition cost is $300</b></p><p><b>Both classes have extended rehearsals or extra rehearsals close to the time of the performance. &nbsp;These extra hours are free of charge.<br><br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Classes are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior classes and camps depending on experience.<br></b><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><b><br></b><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email aine@thefirstactcct.org for a registration form.<br><br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-y"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8538c3",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/waving-fairy-tale-news-19-1400x860.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>Summer Camps &nbsp;'19",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f6faaf",
+              "text-align": "left"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-6g"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190718-100708-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190718-100708-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "King Lear",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/67113533-2824072667667733-3936457012774174720-o-2000x1139.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/67113533-2824072667667733-3936457012774174720-o-2000x1139-800x456.jpg",
+                "alt": "",
+                "caption": "Anything you Say your Majesty",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/61687317-2692315807510087-5891755958203318272-o-4-2000x1180.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/61687317-2692315807510087-5891755958203318272-o-4-2000x1180-800x472.jpg",
+                "alt": "",
+                "caption": "Upside Down Town",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/64604774-2715809508494050-6530523186889490432-o-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/64604774-2715809508494050-6530523186889490432-o-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "End of the Rainbow",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190726-103642-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190726-103642-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Fairytale News",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190807-95543-2000x1065.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190807-95543-2000x1065-800x426.jpg",
+                "alt": "",
+                "caption": "Dirk Smirk",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190725-94536-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190725-94536-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Fairytale News",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190726-102952-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190726-102952-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Fairytale News",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190807-95813-2000x1352.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190807-95813-2000x1352-800x541.jpg",
+                "alt": "",
+                "caption": "Dirk Smirk",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190726-101900-2000x1156.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190726-101900-2000x1156-800x462.jpg",
+                "alt": "",
+                "caption": "Fairytale News",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190807-95937-2000x1163.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190807-95937-2000x1163-800x465.jpg",
+                "alt": "",
+                "caption": "Dirk Smirk",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/61872969-2692321147509553-2747532622686060544-n-439x260.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/61872969-2692321147509553-2747532622686060544-n-439x260-439x260.jpg",
+                "alt": "",
+                "caption": "Upside Down Town",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190709-125657-2000x787.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190709-125657-2000x787-800x315.jpg",
+                "alt": "",
+                "caption": "King Lear",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190711-120216-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190711-120216-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "King Lear",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190711-115218-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190711-115218-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "King Lear",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/61745615-2692321120842889-5960728528772136960-o-600x805.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/61745615-2692321120842889-5960728528772136960-o-600x805-600x805.jpg",
+                "alt": "",
+                "caption": "Upside Down Town",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-6f"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/203860183001201-1-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Sherlock Holmes and the <br>Book of Secret Secrets<br>By Geoff Bamber&nbsp;<br><br>",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f6faaf",
+              "text-align": "left"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "Middle School Spring '19 Semester Play&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-6c"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190408-175436-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190408-175436-2000x1500-800x534.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190420-122922-resized-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190420-122922-resized-2000x2667-800x1067.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/57652685-10214274167748682-3647575115853463552-n-960x773.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/57652685-10214274167748682-3647575115853463552-n-960x773-800x644.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190408-175545-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190408-175545-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190420-123812-resized-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190420-123812-resized-2000x2667-800x1067.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190420-123847-resized-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190420-123847-resized-2000x2667-800x1067.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-6b"
         },
         {
           "_inherit": "msg-box5",
@@ -508,14 +842,15 @@
               "size": 0
             }
           },
-          "title": "Sleeping Beauty<br>Written by Geoff Bamber",
-          "text": "<p>Spring 19 Semester class&nbsp;</p>",
+          "title": "Sleeping Beauty- A Pantomime<br>By Geoff Bamber",
+          "text": "<p>Spring 19 Intermediate Class Semester class&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#f6faaf"
+              "color": "#f6faaf",
+              "text-align": "left"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -694,7 +1029,137 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showMeta": false,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/20190316-114329-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "The Dori Story<br>By Aine Healy-Richardson",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f6faaf",
+              "font-size": "25px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#8538c3"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "Spring' 19 Junior Class",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-6d"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190316-114243-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190316-114243-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190316-114416-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190316-114416-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190316-114133-2000x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190316-114133-2000x1040-800x416.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190316-114329-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190316-114329-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190316-122822-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190316-122822-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190316-141607-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190316-141607-2000x1500-800x362.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-6e"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -756,7 +1221,7 @@
             }
           },
           "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
+          "meta": "By Aine Healy-Richardson with stories from students and families",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-52"

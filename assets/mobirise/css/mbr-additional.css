@@ -51,7 +51,11 @@
 }
 #header4-65 P {
   color: #f6faaf;
-  font-size: 16px;
+  font-size: 24px;
+  text-align: center;
+}
+#header4-65 B {
+  font-size: 46px;
 }
 #content5-5w .mbr-header .mbr-header__text {
   text-align: center;
@@ -93,8 +97,29 @@
 #msg-box1-y .mbr-article B {
   color: #f6faaf;
 }
+#msg-box4-6g .mbr-header__text {
+  color: #f6faaf;
+  text-align: left;
+}
+#msg-box4-6g .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-6g .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-6c .mbr-header__text {
+  color: #f6faaf;
+  text-align: left;
+}
+#msg-box4-6c .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-6c .mbr-article {
+  color: #ffffff;
+}
 #msg-box4-69 .mbr-header__text {
   color: #f6faaf;
+  text-align: left;
 }
 #msg-box4-69 .mbr-header__subtext {
   color: #ffffff;
@@ -115,6 +140,16 @@
 }
 #content5-5y .mbr-article {
   color: #fff;
+}
+#msg-box4-6d .mbr-header__text {
+  color: #f6faaf;
+  font-size: 25px;
+}
+#msg-box4-6d .mbr-header__subtext {
+  color: #8538c3;
+}
+#msg-box4-6d .mbr-article {
+  color: #ffffff;
 }
 #msg-box4-52 .mbr-header__text {
   color: #f7da64;
