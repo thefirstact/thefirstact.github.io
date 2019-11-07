@@ -278,7 +278,7 @@
             "overlayOpacity": "0"
           },
           "title": "",
-          "text": "<b>Winter &nbsp;Camp Info 2019\n</b><br><br>If your child already attends the program, or they would like to try out drama for the first time, this is a great opportunity to have fun and make friends in a creative, loving and fun atmosphere.\n<br>Workshops are stand alone days but multiple days can be booked as each workshop has a different theme and all will include theatre games, improv, physical theatre and stage stills training.\n<br><br>Each day is 9am to 1:00pm.  \n<br> Please email Aine at aine@thefirstactcct.org for a registration form. Places are limited so book early.\n<br>Comfortable clothes and a cooler lunch are all that's needed.\n<br>Scroll down for Dates, Rates, Time and Location",
+          "text": "<b>Winter &nbsp;Camp Info 2019\n</b><br><br>If your child already attends the program, or they would like to try out drama for the first time, this is a great opportunity to have fun and make friends in a creative, loving and fun atmosphere.\n<br>Workshops are stand alone days but multiple days can be booked as each workshop has a different festive theme and all will include theatre games, improv, physical theatre and stage stills training.\n<br><br><br>Comfortable clothes, water &nbsp;and a cooler lunch are all that's needed.\n<br>Scroll down for Dates, Rates, Time and Location",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -321,7 +321,7 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -376,7 +376,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/adele%20grage-318x159.jpg",
+              "src": "@PROJECT_PATH@/assets/images/adele-grage-318x159.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -393,8 +393,8 @@
               "size": 0
             }
           },
-          "title": "Winter Workshops 2019/20",
-          "text": "<p><br></p><p>Workshops on 30th and 31st December are 4-6th Grade</p><p>Workshops on Jan 2nd and 3rd are 1-3rd Grade</p><p>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!</p><p>All workshops from 9:00am to 1:00pm</p><p><br></p><p>For more information and to request a Registration Form please contact&nbsp;</p><p>aine@thefirstactcct.org<br></p><p>All camps held at The Adele Grage Cultural Center Theatre, 716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p>",
+          "title": "Dates, Rates, Time and Location",
+          "text": "<p><b>Each Workshop is 9am to 1:00pm with Aine Healy Richardson.</b></p><p><b>Places are limited so please book early.&nbsp;</b></p><p><b>Mon and Tues Dec 23rd and 24th -&nbsp;1-3rd Grade</b></p><p><b>Mon and Tues 30th and 31st December -&nbsp;4-6th Grade</b></p><p><b>Thurs and Fri Jan 2nd and 3rd -&nbsp;1-3rd Grade</b></p><p><b>Tuition $35 per child per day. Scholarships considered based on reservation numbers. &nbsp;Contact to discuss.</b></p><p><b>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!</b></p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone </p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook </p><p><b>https://www.facebook.com/thefirstact/</b></p><p><br></p><p>All camps held at The Adele Grage Cultural Center Theatre,</p><p> 716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -443,9 +443,9 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/51410332_2411842285557442_4450264968301903872_o-1992x1121.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/51410332-2411842285557442-4450264968301903872-o-1992x1121.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#3C3C3C",
@@ -495,7 +495,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/waving%20fairy%20tale%20news%2019-1400x860.jpg",
+              "src": "@PROJECT_PATH@/assets/images/waving-fairy-tale-news-19-1400x860.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -553,21 +553,21 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/67113533_2824072667667733_3936457012774174720_o-2000x1139.jpg",
+                "image": "@PROJECT_PATH@/assets/images/67113533-2824072667667733-3936457012774174720-o-2000x1139.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/67113533-2824072667667733-3936457012774174720-o-2000x1139-800x456.jpg",
                 "alt": "",
                 "caption": "Anything you Say your Majesty",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/61687317_2692315807510087_5891755958203318272_o%20(4)-2000x1180.jpg",
+                "image": "@PROJECT_PATH@/assets/images/61687317-2692315807510087-5891755958203318272-o-4-2000x1180.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/61687317-2692315807510087-5891755958203318272-o-4-2000x1180-800x472.jpg",
                 "alt": "",
                 "caption": "Upside Down Town",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/64604774_2715809508494050_6530523186889490432_o%20(1)-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/64604774-2715809508494050-6530523186889490432-o-1-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/64604774-2715809508494050-6530523186889490432-o-1-2000x1500-800x600.jpg",
                 "alt": "",
                 "caption": "End of the Rainbow",
@@ -623,7 +623,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/61872969_2692321147509553_2747532622686060544_n-439x260.jpg",
+                "image": "@PROJECT_PATH@/assets/images/61872969-2692321147509553-2747532622686060544-n-439x260.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/61872969-2692321147509553-2747532622686060544-n-439x260-439x260.jpg",
                 "alt": "",
                 "caption": "Upside Down Town",
@@ -651,7 +651,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/61745615_2692321120842889_5960728528772136960_o-600x805.jpg",
+                "image": "@PROJECT_PATH@/assets/images/61745615-2692321120842889-5960728528772136960-o-600x805.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/61745615-2692321120842889-5960728528772136960-o-600x805-600x805.jpg",
                 "alt": "",
                 "caption": "Upside Down Town",
@@ -753,14 +753,14 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20190420_122922_resized-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190420-122922-resized-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20190420-122922-resized-2000x2667-800x1067.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/57652685_10214274167748682_3647575115853463552_n-960x773.jpg",
+                "image": "@PROJECT_PATH@/assets/images/57652685-10214274167748682-3647575115853463552-n-960x773.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/57652685-10214274167748682-3647575115853463552-n-960x773-800x644.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -774,14 +774,14 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20190420_123812_resized-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190420-123812-resized-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20190420-123812-resized-2000x2667-800x1067.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20190420_123847_resized-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190420-123847-resized-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20190420-123847-resized-2000x2667-800x1067.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -825,7 +825,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sleeping%20beauty%20image-476x268.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sleeping-beauty-image-476x268.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -886,7 +886,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/56998317_10157285169674533_7258020952397578240_n-528x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/56998317-10157285169674533-7258020952397578240-n-528x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/56998317-10157285169674533-7258020952397578240-n-528x960-528x960.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -907,14 +907,14 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/57076181_10157285185419533_4614858410121232384_n-1-960x720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/57076181-10157285185419533-4614858410121232384-n-1-960x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/57076181-10157285185419533-4614858410121232384-n-1-960x720-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/57232179_10157285166609533_1797491728031154176_n-528x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/57232179-10157285166609533-1797491728031154176-n-528x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/57232179-10157285166609533-1797491728031154176-n-528x960-528x960.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -935,7 +935,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/57395666_10157285163089533_419893663762481152_n-960x720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/57395666-10157285163089533-419893663762481152-n-960x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/57395666-10157285163089533-419893663762481152-n-960x720-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -963,7 +963,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/56973917_2569972483077754_2336605145535610880_o-1932x1449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/56973917-2569972483077754-2336605145535610880-o-1932x1449.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/56973917-2569972483077754-2336605145535610880-o-1932x1449-800x620.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -1184,7 +1184,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/47157261_2018698801551431_7049761050526220288_n-3-648x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/47157261-2018698801551431-7049761050526220288-n-3-648x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1592,7 +1592,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/the_tempest_web-1-473x598.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-tempest-web-1-473x598.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1642,8 +1642,8 @@
             "bgColor": "#9365b8",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/_storage_emulated_0_android_data_com.sec.imsservice_files_received_files_20180811_142638-1534034182311-2000x1219.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/-storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219-800x488.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219-800x488.jpg",
                 "alt": "",
                 "caption": "",
                 "active": false
@@ -1656,7 +1656,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20180811_143442-1534034238160-1840x1278.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20180811-143442-1534034238160-1840x1278.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20180811-143442-1534034238160-1840x1278-800x556.jpg",
                 "alt": "",
                 "caption": "",
@@ -1670,7 +1670,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img_4314%20(1)-1013x1024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4314-1-1013x1024.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4314-1-1013x1024-800x809.jpg",
                 "alt": "",
                 "caption": "",
@@ -1684,7 +1684,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20180811_142153-1534034096377-1411x605.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20180811-142153-1534034096377-1411x605.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20180811-142153-1534034096377-1411x605-800x343.jpg",
                 "alt": "",
                 "caption": "",
@@ -2514,7 +2514,7 @@
               {
                 "caption": "Titania and the Changling girl<br>All photos in this series by Hal Padgett",
                 "thumb": "@PROJECT_PATH@/assets/images/mid-3c-644x900-644x900.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mid_3c-644x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mid-3c-644x900.jpg",
                 "active": false,
                 "alt": ""
               },
@@ -2534,14 +2534,14 @@
               {
                 "caption": "Titania and Bottom",
                 "thumb": "@PROJECT_PATH@/assets/images/mid-1a-900x711-800x632.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mid_1a-900x711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mid-1a-900x711.jpg",
                 "active": false,
                 "alt": ""
               },
               {
                 "caption": "Hippolyta and Theseus",
                 "thumb": "@PROJECT_PATH@/assets/images/mid-9c-900x592-800x526.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mid_9c-900x592.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mid-9c-900x592.jpg",
                 "active": true,
                 "alt": ""
               },
@@ -3125,7 +3125,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
