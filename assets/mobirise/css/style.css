@@ -1,4 +1,11 @@
-.is-builder .animated {
+.engine {
+	position: absolute;
+	text-indent: -2400px;
+	text-align: center;
+	padding: 0;
+	top: 0;
+	left: -2400px;
+}.is-builder .animated {
   -webkit-animation-name: none !important;
   animation-name: none !important;
 }
@@ -486,7 +493,7 @@ html {
   margin-top: -13px;
   position: relative;
   top: 14px;
-  width: 100%;
+  /* width: 100%; */
 }
 .mbr-form__left,
 .mbr-form__right {
@@ -1714,11 +1721,55 @@ html {
   .content-size{
     width: 100%;
   }
-}.engine {
-	position: absolute;
-	text-indent: -2400px;
-	text-align: center;
-	padding: 0;
-	top: 0;
-	left: -2400px;
+}
+
+.form-control {
+  /* background: #eef2f7;
+  padding:1rem; */
+}
+
+.align-center {
+  text-align: center;
+}
+
+.col, .col-12, .col-auto {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+.col-auto {
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: none;
+}
+
+form a.btn {
+  margin:0;
+}
+
+.mx-auto {
+  margin: 0 auto;
+}
+
+section.custom-form .container,
+section.form .container {
+  display:flex;
+}
+
+.form-row {
+  display:flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
 }

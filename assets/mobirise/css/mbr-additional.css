@@ -35,6 +35,21 @@
 #content5-1g .mbr-article {
   color: #f6faaf;
 }
+#content5-6h .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #f6faaf;
+  font-size: 30px;
+}
+#content5-6h .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-6h .mbr-article {
+  color: #fff;
+}
+#content5-6h .mbr-article P {
+  text-align: center;
+}
 #content5-66 .mbr-header .mbr-header__text {
   text-align: center;
   color: #f6faaf;
@@ -359,21 +374,6 @@
 }
 #contacts2-1 P {
   color: #ffffff;
-}
-#content5-6h .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #f6faaf;
-  font-size: 30px;
-}
-#content5-6h .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-6h .mbr-article {
-  color: #fff;
-}
-#content5-6h .mbr-article P {
-  text-align: center;
 }
 
 #msg-box4-6i .mbr-header__text {
