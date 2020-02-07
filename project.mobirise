@@ -201,7 +201,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Mission Statement",
-          "text": "The First Act Children's Community Theatre was established to provide access to educational training in theatre for Children (K-12); to produce theatrical performances as a way for them to improve and demonstrate skills; to prepare students to pursue further theatrical training; to foster and strengthen the dramatic arts in the community of Jacksonville by promoting the developmental benefits of the dramatic arts for all children. We have a special interest in inter-generational work with local seniors using Reminiscence/Theatre projects to; foster relationships with older people; to create new dramatic works based on the memoirs of participants and to provide entertainment and recreational opportunities for the community.\n<div>Scholarships for students and seniors from under served communities will be provided where possible.\n</div><div>\n</div><div><br></div>",
+          "text": "The First Act Children's Community Theatre was established to provide access to educational training in theatre for Children (K-12); to produce theatrical performances as a way for them to improve and demonstrate skills; to prepare students to pursue further theatrical training; to foster and strengthen the dramatic arts in the community of Jacksonville by promoting the developmental benefits of the dramatic arts for all children. We have a special interest in inter-generational work with local seniors using Reminiscence/Theatre projects to; foster relationships with older people; to create new dramatic works based on the memoirs of participants and to provide entertainment and recreational opportunities for the community.\n<div>Scholarships for students and seniors from under served communities will be provided where possible. &nbsp;Please scroll down to donate.</div><div>\n</div><div><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -243,7 +243,7 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-6h",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size mbr-after-navbar\" data-rv-view=\"1512\" style=\"background-color: rgb(26, 188, 156);\">\n    \n    <div class=\"mbr-section__container container mbr-section__container--first\" style=\"padding-top: 31px;\">\n        <div class=\"mbr-header mbr-header--wysiwyg row\">\n            <div class=\"col-sm-8 col-sm-offset-2\">\n                <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"87\">How To Support Our Mission</h3>\n                \n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section__container container mbr-section__container--last\" style=\"padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2 mbr-editable-full\" code-editable-id=\"88\"><p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p></div>\n        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"KBDB6EJMMEVJY\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" border=\"0\" name=\"submit\" title=\"PayPal - The safer, easier way to pay online!\" alt=\"Donate with PayPal button\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n        </div>\n    </div>\n    \n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size mbr-after-navbar\" data-rv-view=\"1512\" style=\"background-color: rgb(26, 188, 156);\">\n    \n    <div class=\"mbr-section__container container mbr-section__container--first\" style=\"padding-top: 31px;\">\n        <div class=\"mbr-header mbr-header--wysiwyg row\">\n            <div class=\"col-sm-8 col-sm-offset-2\">\n                <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"52\">How To Support Our Mission</h3>\n                \n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section__container container mbr-section__container--last\" style=\"padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2 mbr-editable-full\" code-editable-id=\"53\"><p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p></div>\n        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"KBDB6EJMMEVJY\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" border=\"0\" name=\"submit\" title=\"PayPal - The safer, easier way to pay online!\" alt=\"Donate with PayPal button\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n        </div>\n    </div>\n    \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-header .mbr-header__text {\n  text-align: center;\n  color: #f6faaf;\n  font-size: 30px;\n}\n.mbr-header .mbr-header__subtext {\n  text-align: center;\n  color: #fff;\n}\n.mbr-article {\n  color: #fff;\n}\n.mbr-article P {\n  text-align: center;\n}\n",
@@ -299,7 +299,7 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": false,
@@ -318,7 +318,7 @@
             "overlayOpacity": "0"
           },
           "title": "",
-          "text": "<b>Winter &nbsp;Camp Info 2019\n</b><br><br>If your child already attends the program, or they would like to try out drama for the first time, this is a great opportunity to have fun and make friends in a creative, loving and fun atmosphere.\n<br>Workshops are stand alone days but multiple days can be booked as each workshop has a different festive theme and all will include theatre games, improv, physical theatre and stage stills training.\n<br><br><br>Comfortable clothes, water &nbsp;and a cooler lunch are all that's needed.\n<br>Scroll down for Dates, Rates, Time and Location",
+          "text": "<b>Summer Camp Info 2020&nbsp;</b><br><br>If your child already attends the semester Theatre program, is a returning camper or would like to try out a for the first time, &nbsp;this is a great opportunity to have fun and make friends in a creative, loving and fun atmosphere.<br>All our Summer Camps are two week camps this year by popular demand! Each camp will include theatre games, improv, physical theatre, accent and stage stills training, as well as a full play on the last day!! <br>For middle and high school students the last camp of Summer has become an institution with many genres of plays including Shakespeare, Murder Mysteries and Secret Agent Tales.<br>High School students interested in Community Service Volunteering please send a cover letter by email expressing their interest.<br><br>Comfortable clothes, water &nbsp;and a cooler lunch are all that's needed.\n<br>Scroll down for Dates, Rates, Time, Location and Photos from last year!",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -434,7 +434,7 @@
             }
           },
           "title": "Dates, Rates, Time and Location",
-          "text": "<p><b>Each Workshop is 9am to 1:00pm with Aine Healy Richardson.</b></p><p><b>Places are limited so please book early.&nbsp;</b></p><p><b>Mon and Tues Dec 23rd and 24th -&nbsp;1-3rd Grade</b></p><p><b>Mon and Tues 30th and 31st December -&nbsp;4-6th Grade</b></p><p><b>Thurs and Fri Jan 2nd and 3rd -&nbsp;1-3rd Grade</b></p><p><b>Tuition $35 per child per day. Scholarships considered based on reservation numbers. &nbsp;Contact to discuss.</b></p><p><b>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!</b></p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone </p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook </p><p><b>https://www.facebook.com/thefirstact/</b></p><p><br></p><p>All camps held at The Adele Grage Cultural Center Theatre,</p><p> 716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><br></p>",
+          "text": "<p><b>Each camp is a two week camp and runs from 9am to 1:00pm Mon - Fri with Aine Healy Richardson. &nbsp;Plays are held at 1:pm on the last day of camp, with an option for a second performance at 7pm depending on demand. &nbsp;</b></p><p><b>Places are limited to 14 so please book early.&nbsp;</b></p><p><b>June 1st - 12th for &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1-3rd Grade &nbsp;&nbsp;</b></p><p><b>June 15th - 26th for &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4th Grade and up</b></p><p><b>June 29th - July 10th &nbsp;for &nbsp; &nbsp; &nbsp; &nbsp;1-3rd Grade</b></p><p><b>July 13th - 24th for &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4th Grade and up</b></p><p><b>July 27th - Aug 7th &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6th Grade and UP!</b></p><p><b>Tuition $380 per child per camp including a $20 production fee. </b></p><p>Deposit of $100 must be sent with Registration before confirmation. &nbsp;Deposit refundable up to one week before start.</p><p><b>Scholarships considered based on reservation numbers. &nbsp;Contact to discuss.</b></p><p><b>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!</b></p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone </p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook</p><p><b>https://www.facebook.com/thefirstact/</b></p><p>All camps held at The Adele Grage Cultural Center Theatre,</p><p> 716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -451,7 +451,8 @@
             },
             ".mbr-article P": {
               "color": "#f6faaf",
-              "font-size": "19px"
+              "font-size": "19px",
+              "text-align": "left"
             }
           },
           "headerAlign": "left",
@@ -511,7 +512,7 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
