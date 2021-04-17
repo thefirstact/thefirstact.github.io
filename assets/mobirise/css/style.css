@@ -1,11 +1,4 @@
-.engine {
-	position: absolute;
-	text-indent: -2400px;
-	text-align: center;
-	padding: 0;
-	top: 0;
-	left: -2400px;
-}.is-builder .animated {
+.is-builder .animated {
   -webkit-animation-name: none !important;
   animation-name: none !important;
 }
@@ -1772,4 +1765,11 @@ section.form .container {
   display:flex;
   flex-wrap: wrap;
   margin: 0 -15px;
+}.engine {
+	position: absolute;
+	text-indent: -2400px;
+	text-align: center;
+	padding: 0;
+	top: 0;
+	left: -2400px;
 }
