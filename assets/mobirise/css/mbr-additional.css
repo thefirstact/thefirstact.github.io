@@ -23,43 +23,28 @@
 #menu-0 .mbr-navbar__items a {
   font-size: 12px;
 }
-#content5-1g .mbr-header .mbr-header__text {
+#Donate .mbr-header .mbr-header__text {
   text-align: center;
   color: #f6faaf;
-  font-size: 30px;
+  font-size: 46px;
 }
-#content5-1g .mbr-header .mbr-header__subtext {
+#Donate .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-1g .mbr-article {
+#Donate .mbr-article {
   color: #f6faaf;
 }
-#content5-6h .mbr-header .mbr-header__text {
-  text-align: center;
+#Program .mbr-header .mbr-header__text {
   color: #f6faaf;
-  font-size: 30px;
-}
-#content5-6h .mbr-header .mbr-header__subtext {
   text-align: center;
-  color: #fff;
+  font-size: 46px;
 }
-#content5-6h .mbr-article {
-  color: #fff;
-}
-#content5-6h .mbr-article P {
-  text-align: center;
-}
-#content5-66 .mbr-header .mbr-header__text {
-  text-align: center;
+#Program .mbr-article {
   color: #f6faaf;
 }
-#content5-66 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-66 .mbr-article {
-  color: #fff;
+#Program .mbr-article P {
+  font-size: 14px;
 }
 #header4-65 H1 {
   color: #f6faaf;
@@ -72,15 +57,15 @@
 #header4-65 B {
   font-size: 46px;
 }
-#content5-5w .mbr-header .mbr-header__text {
+#Camps .mbr-header .mbr-header__text {
   text-align: center;
   color: #f6faaf;
 }
-#content5-5w .mbr-header .mbr-header__subtext {
+#Camps .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-5w .mbr-article {
+#Camps .mbr-article {
   color: #fff;
 }
 #msg-box4-5i .mbr-header__text {
@@ -98,24 +83,10 @@
   font-size: 19px;
   text-align: left;
 }
-#msg-box1-y .mbr-header .mbr-header__text {
-  color: #f6faaf;
-  font-size: 36px;
-}
-#msg-box1-y .mbr-article {
-  color: #ffffff;
-}
-#msg-box1-y .mbr-article P {
-  color: #f6faaf;
-  font-size: 20px;
-  text-align: left;
-}
-#msg-box1-y .mbr-article B {
-  color: #f6faaf;
-}
 #msg-box4-6g .mbr-header__text {
   color: #f6faaf;
   text-align: left;
+  font-size: 46px;
 }
 #msg-box4-6g .mbr-header__subtext {
   color: #ffffff;
