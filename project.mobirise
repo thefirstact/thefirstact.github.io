@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "4.11.6",
+    "versionPublish": "4.12.3",
     "name": "My Site-clone",
     "theme": {
       "name": "default",
@@ -21,7 +21,21 @@
     "path": "@PROJECT_PATH@",
     "uniqCompNum": 283,
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "favicon": false,
+    "noImageResize": null,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "imageResize": true,
+    "mcShopcart": {
+      "checkoutLabelButton": "Donate              ",
+      "email": "aine@thefirstactcct.org",
+      "currency": "USD"
+    }
   },
   "pages": {
     "index.html": {
@@ -142,7 +156,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-42\">REVIEWS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-66\"><p>CAMPS</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-6f\">GALLERY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-4o\">REMINISCENCE THEATRE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-y\">CLASSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6h\">DONATE<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-42\">REVIEWS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Camps\"><p>CAMPS</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-6f\">GALLERY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-4o\">REMINISCENCE THEATRE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Program\">PROGRAM</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Donate\">DONATE<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>  "
         },
         {
@@ -168,7 +182,7 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "46px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -208,7 +222,7 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-1g"
+          "_anchor": "Donate"
         },
         {
           "_inherit": "msg-box3",
@@ -217,7 +231,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -235,66 +249,32 @@
             "overlayOpacity": 0.2
           },
           "title": "How To Support Our Mission",
-          "text": "<p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><div> <button style=\"color: rgb(255, 255, 255); font-size: 14px; font-family: &quot;Trebuchet MS&quot;; font-weight: normal; background-color: rgb(74, 144, 226); padding: 7px 16px; border-radius: 3px; border-width: 1px; border-style: solid; border-color: rgb(74, 144, 226); box-shadow: rgba(0, 0, 0, 0.247059) 0px 2px 4px 0px;\">Donate Now</button><script src=\"https://www.convergepay.com/hosted-payments/buy_button_script/7246736d474f72745450716f786a496857375474694141414157324d39326668\"></script></div></a> ",
+          "text": "<p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p><p>A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE.</p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;item_name=Custom+Item&amp;item_number=%2410&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><div> <button style=\"color: rgb(255, 255, 255); font-size: 14px; font-family: &quot;Trebuchet MS&quot;; font-weight: normal; background-color: rgb(74, 144, 226); padding: 7px 16px; border-radius: 3px; border-width: 1px; border-style: solid; border-color: rgb(74, 144, 226); box-shadow: rgba(0, 0, 0, 0.247059) 0px 2px 4px 0px;\">Donate Now</button><script src=\"https://www.convergepay.com/hosted-payments/buy_button_script/7246736d474f72745450716f786a496857375474694141414157324d39326668\"></script></div></a>  ",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-6h",
+          "_anchor": "Program",
           "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size mbr-after-navbar\" data-rv-view=\"1512\" style=\"background-color: rgb(26, 188, 156);\">\n    \n    <div class=\"mbr-section__container container mbr-section__container--first\" style=\"padding-top: 31px;\">\n        <div class=\"mbr-header mbr-header--wysiwyg row\">\n            <div class=\"col-sm-8 col-sm-offset-2\">\n                <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"52\">How To Support Our Mission</h3>\n                \n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section__container container mbr-section__container--last\" style=\"padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2 mbr-editable-full\" code-editable-id=\"53\"><p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p></div>\n        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"KBDB6EJMMEVJY\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" border=\"0\" name=\"submit\" title=\"PayPal - The safer, easier way to pay online!\" alt=\"Donate with PayPal button\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n        </div>\n    </div>\n    \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-header .mbr-header__text {\n  text-align: center;\n  color: #f6faaf;\n  font-size: 30px;\n}\n.mbr-header .mbr-header__subtext {\n  text-align: center;\n  color: #fff;\n}\n.mbr-article {\n  color: #fff;\n}\n.mbr-article P {\n  text-align: center;\n}\n",
-          "_customTemplate": true
-        },
-        {
-          "_inherit": "msg-box3",
+          "_customTemplate": true,
           "_styles": {
             ".mbr-header .mbr-header__text": {
+              "color": "#f6faaf",
               "text-align": "center",
-              "color": "#f6faaf"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
+              "font-size": "46px"
             },
             ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#1abc9c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "color": "#f6faaf"
             },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "MISSION STATEMENT",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-66"
+            ".mbr-article P": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -318,7 +298,7 @@
             "overlayOpacity": "0"
           },
           "title": "",
-          "text": "<b>Summer Camp Info 2020&nbsp;</b><br><br>Due to the impact from Covid 19, we have regrettably cancelled<br>all camps for June 2020. &nbsp;We will continue to monitor the situation<br>and advise parents if camps in July can proceed.<br>Spaces still available in the Middle School Production July 27th.<br>All other camps registrations are full and closed.<br>We regret that in this time of need we cannot offer our beloved summer camps all summer long, but the health and wellbeing of our children and families are our main concern.<br>We can't wait to see you all back on the stage at The Adele Grage Theatre very soon!!<br><br>",
+          "text": "<b>Program Info 2021&nbsp;</b><br><br>Due to the impact from Covid 19, we &nbsp;will continue to monitor the situation and advise parents when our beloved summer camps can restart. &nbsp;Working together and putting on a play in a small space &nbsp;and the current protocols mean we will be limiting the numbers of campers. &nbsp;The health and wellbeing of our children and families are our main concern.<br>We will confirm dates as soon as we can. &nbsp;Provisional dates below.<br>We can't wait to see you all back on the stage at The Adele Grage Theatre very soon!!<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -385,7 +365,7 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-5w"
+          "_anchor": "Camps"
         },
         {
           "_inherit": "msg-box5",
@@ -433,8 +413,8 @@
               "size": 0
             }
           },
-          "title": "Dates, Rates, Time and Location",
-          "text": "<p><b>If your child already attends the semester Theatre program, is a returning camper or would like to try out a for the first time,  this is a great opportunity to have fun and make friends in a creative, loving and fun atmosphere.\n</b></p><p><b>&nbsp;Each camp will include theatre games, improv, physical theatre, accent and stage stills training, as well as a full play on the last day!! \n</b></p><p><b>\n</b></p><p><b>High School students interested in Community Service Volunteering please send a cover letter by email expressing their interest.\n</b></p><p><b>\n</b></p><p><b>Comfortable clothes, water  and a cooler lunch are all that's needed. \n</b></p><p><b>Scroll down for Dates, Rates, Time, Location and Photos from last year!</b></p><p><b>Times are : 9am to 1:00pm Mon - Fri with Aine Healy Richardson. &nbsp;Plays are held at 1:pm on the last day of camp, with an option for a second performance at 7pm depending on demand. &nbsp;</b></p><p><b>Places are limited to 14 so please book early.&nbsp;</b></p><p><b>June 1st - 12th for &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1-3rd Grade &nbsp;&nbsp;</b></p><p><b>June 15th - 26th for &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4th Grade and up</b></p><p><b>June 29th - July 10th &nbsp;for &nbsp; &nbsp; &nbsp; &nbsp;1-3rd Grade</b></p><p><b>July 13th - 24th for &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4th Grade and up</b></p><p><b>July 27th - Aug 7th &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6th Grade and UP!</b></p><p><b>Tuition $380 per child per camp including a $20 production fee. </b></p><p>Deposit of $100 must be sent with Registration before confirmation. &nbsp;Deposit refundable up to one week before start.</p><p><b>Scholarships considered based on reservation numbers. &nbsp;Contact to discuss.</b></p><p><b>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!</b></p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone </p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook</p><p><b>https://www.facebook.com/thefirstact/</b></p><p>All camps held at The Adele Grage Cultural Center Theatre,</p><p> 716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><br></p>",
+          "title": "Dates, Rates, Time and Location&nbsp;",
+          "text": "<p><b><br></b></p><p><b>Dates for Summer Camp 2021 are provisional for now, but</b><b>&nbsp;please email Aine below with your preference for dates so we can gauge interest in certain camps. &nbsp;We will also have a limited audience for performances. We will of course follow all health guidelines and sanitizing procudures with a mask mandate in the building. &nbsp;</b></p><p><b>All other information remains the same.&nbsp;</b></p><p><b>All camps except the last one are two weeks long and run from Mon-Fri 9am to 1pm. </b></p><p><b>The play is at 1pm on the last day of each camp.</b></p><p><b>Dates</b></p><p><b>June </b></p><p><b>7th - 18th &nbsp; Grades 2 - 3</b></p><p><b>21st - July 2nd &nbsp; Grades 4 - 6</b></p><p><b>July </b></p><p><b>5th - 16th &nbsp; &nbsp;Middle school</b></p><p><b>19th - 30th 4-6 &nbsp;Grades&nbsp;</b></p><p><b>August </b></p><p><b>2nd - 6th &nbsp;Grades 2 - 3</b></p><p><b>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!</b></p><p><b>Rates</b></p><p><b>$240 per child per week of camp plus a $20 production fee.</b></p><p>Deposit of $200 must be sent with Registration before confirmation. &nbsp;Deposit refundable up to one week before start.</p><p><b>Scholarships considered based on reservation numbers. &nbsp;Please contact us to discuss. &nbsp;If you would like to donate a sholarship fee to a family, please use our donate button. &nbsp;It is a tax free deduction. &nbsp;</b></p><p><b>Location</b></p><p>All camps held at The Adele Grage Cultural Center Theatre,\n</p><p>716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone or text</p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook</p><p><b>https://www.facebook.com/thefirstact/</b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -460,52 +440,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-5i"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#f6faaf",
-              "font-size": "36px"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "color": "#f6faaf",
-              "font-size": "20px",
-              "text-align": "left"
-            },
-            ".mbr-article B": {
-              "color": "#f6faaf"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/51410332-2411842285557442-4450264968301903872-o-1992x1121.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.4"
-          },
-          "title": "<br>Spring Program 2020<br>",
-          "text": "<p><b>All classes held at</b><b>:</b></p><p><b>The Adele Grage Cultural Center Theatre,&nbsp;</b></p><p><b>716 Ocean Blvd at 7th Street in Atlantic Beach, 32233\n</b></p><p><b>Introductory Class 1st - 3rd Grade</b></p><p><b>Saturday 11:15am - 1:15pm &nbsp;</b></p><p><b>Tuition cost is $280</b><br></p><p><b>Class runs from Jan 11th to March 28th<br></b></p><b>&nbsp;Showcase at 1pm and 7pm on&nbsp;March 28th</b><br><p><b>Intermediate Class - 4th -6th Grade</b><br></p><p><b>Saturday 9:00am to 11:00am</b></p><p><b>Class runs from&nbsp;Jan 11th to April 4th</b></p><p><b>Show/Play &nbsp;April&nbsp;4th&nbsp;at &nbsp;1:00pm and 7:00pm</b></p><p><b>Advanced Class 6-9th Grade</b><br></p><p><b>Monday 5:00pm - 7:00pm</b></p><p><b>Class runs from Jan 13th to April 6th</b></p><p><b>Show on Jan 11th at 7:00pm</b></p><p><b>Tuition cost is $300</b></p><p><b>Both classes have extended rehearsals or extra rehearsals close to the time of the performance. &nbsp;These extra hours are free of charge.<br><br>Children and families from our community will be invited to performances as seats are available after friends and family have booked.<br><br>Classes are capped at 14 students. &nbsp;<br></b></p><b>Grades are a guideline but we are flexible about accepting younger children in senior classes and camps depending on experience.<br></b><p><b>Middle and High School students looking to acquire Community Service Hours should send a cover letter by email expressing their interest.</b></p><b><br></b><p><b>Questions? Call Aine on 904 509 1472 \n&nbsp;&nbsp;or email aine@thefirstactcct.org for a registration form.<br>Checks to be made payable to The First Act CCT\n<br>Mailing address 612 13th Ave North, Jax Beach, 32250\n<br></b><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-y"
         },
         {
           "_inherit": "msg-box5",
@@ -561,7 +495,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#f6faaf",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "46px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1683,7 +1618,7 @@
             "bgColor": "#9365b8",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/-storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219-800x488.jpg",
                 "alt": "",
                 "caption": "",
@@ -2375,7 +2310,7 @@
           "headerAlign": "left",
           "title": "About",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Aine Healy-Richardson is the executive director and drama teacher at The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Dublin, Ireland with a long history of working with children (including her twenty-five nieces and nephews). &nbsp;She grew up in an Oral Tradition – both her parents were great Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland. Aine was also part of a Community Theatre Group in London, gaining experience on and off stage. &nbsp;Aine spent fourteen years living and working in London where she worked as an Occupational Therapist in Community Mental Health. &nbsp;As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Mental Health for over ten years. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children. &nbsp; But now she puts on plays too, and so much more!</p><p><br></p><p>Having moved to the Jacksonville Beaches &nbsp;in 2001 to marry Wes, Aine has since combined her love for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea , The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School, Atlantic Beach Elementary School and The Jordan Centre.<br></p><p>In 2008 Aine started The First Act and in 2010 formed a collaboration with ABET Theatre where she happily taught classes and camps until 2016.</p><p>In Oct 2016 The First Act was awarded a contract with The City of Atlantic Beach to proivde the children's theatre program at The Adele Grage Theatre in Atlantic Beach FL. &nbsp;TFA are extremely appreciatiave to work in such a perfect environment for Children. &nbsp;A small and intimate stage next to a playground and two blocks from the beautiful ocean. &nbsp;Children walk, bike and skate to class and camp. &nbsp;Thank you City of Atlantic Beach!</p><p>  \n</p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children, and Reminiscence for Seniors. &nbsp; </p><p>This work is a collaborative effort by parents, children and volunteer artists, teachers and technicians. &nbsp;</p><p>Wes Richardson has been a volunteer Technical Director for The First Act since it opened it's doors in 2008 and works on it's behalf in some way or another on a daily basis!</p><p>Anne Roberts has volunteered her skills and expertise to these children for over seven years, passing on her knowledge and creating all kinds of props and set pieces that serve to greatly enhance the experience of story-telling for the children. &nbsp;</p><p>Mary Jo Evans has been volunteering her time at class and backstage for the past three years and brings a calm and nurturing influence to the work and is loved by the kids.</p><p>Rachel Dorrian a silent (and unpaid) partner for many years helped Aine build the program by tirelessly promoting and recommending to other parents and by being there to set up and break down on more occassions than can be counted.<br></p><p>Ingrid McCawley &nbsp;has been a wonderful parent and advocate for this work and this program and has given a tremendous amount of time to it for many years. &nbsp;We are delighted to have her serve as President of it's Board.</p><p>To all the above, and the many many more people who support Aine in this work, she thanks them heartily. &nbsp;</p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but I believe studying drama helps all my students to develop communications skills, gain increased empathy and understanding of others, explore their emotions and, importantly, to have fun with a group of friends\" &nbsp;<br></p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p>Board of Directors<br></p><p>P Ingrid McCawley &nbsp;VP Louis Weimer &nbsp; Tr Dorris Croasdell &nbsp; Sec Ginny Brinkley</p><p>D Renee Faure &nbsp; &nbsp;Aine Healy-Richardson</p><p><br></p>",
+          "text": "<p>Aine Healy-Richardson is the executive director and drama teacher at The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Dublin, Ireland with a long history of working with children (including her twenty-five nieces and nephews). &nbsp;She grew up in an Oral Tradition – both her parents were great Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland. Aine was also part of a Community Theatre Group in London, gaining experience on and off stage. &nbsp;Aine spent fourteen years living and working in London where she worked as an Occupational Therapist in Community Mental Health. &nbsp;As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Mental Health for over ten years. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children. &nbsp; But now she puts on plays too, and so much more!</p><p><br></p><p>Having moved to the Jacksonville Beaches &nbsp;in 2001 to marry Wes, Aine has since combined her love for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea , The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School, Atlantic Beach Elementary School and The Jordan Centre.<br></p><p>In 2008 Aine started The First Act and in 2010 formed a collaboration with ABET Theatre where she happily taught classes and camps until 2016.</p><p>In Oct 2016 The First Act was awarded a contract with The City of Atlantic Beach to proivde the children's theatre program at The Adele Grage Theatre in Atlantic Beach FL. &nbsp;TFA are extremely appreciatiave to work in such a perfect environment for Children. &nbsp;A small and intimate stage next to a playground and two blocks from the beautiful ocean. &nbsp;Children walk, bike and skate to class and camp. &nbsp;Thank you City of Atlantic Beach!</p><p>  \n</p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children, and Reminiscence for Seniors. &nbsp; </p><p>This work is a collaborative effort by parents, children and volunteer artists, teachers and technicians. &nbsp;</p><p>Wes Richardson has been a volunteer Technical Director for The First Act since it opened it's doors in 2008 and works on it's behalf in some way or another on a daily basis!</p><p>Anne Roberts has volunteered her skills and expertise to these children for over seven years, passing on her knowledge and creating all kinds of props and set pieces that serve to greatly enhance the experience of story-telling for the children. &nbsp;</p><p>Mary Jo Evans has been volunteering her time at class and backstage for the past three years and brings a calm and nurturing influence to the work and is loved by the kids.</p><p>Rachel Dorrian a silent (and unpaid) partner for many years helped Aine build the program by tirelessly promoting and recommending to other parents and by being there to set up and break down on more occassions than can be counted.<br></p><p>Ingrid McCawley &nbsp;has been a wonderful parent and advocate for this work and this program and has given a tremendous amount of time to it for many years. &nbsp;We are delighted to have her serve as President of it's Board.</p><p>To all the above, and the many many more people who support Aine in this work, she thanks them heartily. &nbsp;</p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but I believe studying drama helps all my students to develop communications skills, gain increased empathy and understanding of others, explore their emotions and, importantly, to have fun with a group of friends\" &nbsp;<br></p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p>Board of Directors<br></p><p>P Ingrid McCawley &nbsp;VP Louis Weimer &nbsp; Tr Susan Stevens &nbsp; Sec Ginny Brinkley</p><p>D Renee Faure &nbsp; &nbsp;Aine Healy-Richardson</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -3366,7 +3301,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-42\">REVIEWS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-66\"><p>CAMPS</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-6f\">GALLERY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-4o\">REMINISCENCE THEATRE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-y\">CLASSES</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6h\">DONATE<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-42\">REVIEWS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Camps\"><p>CAMPS</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-6f\">GALLERY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-4o\">REMINISCENCE THEATRE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Program\">PROGRAM</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Donate\">DONATE<br><br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>  ",
           "_anchor": "menu-6j"
         },
@@ -4868,7 +4803,7 @@
             "bgColor": "#9365b8",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/-storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219.jpg",
+                "image": "@PROJECT_PATH@/assets/images/storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219-800x488.jpg",
                 "alt": "",
                 "caption": "",
