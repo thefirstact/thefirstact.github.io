@@ -280,7 +280,7 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": false,
@@ -298,8 +298,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "",
-          "text": "<b>Program Info 2021&nbsp;</b><br><br>We hope to have confirmation of dates for Summer 2021 very soon!!<br>Due to the impact from Covid 19, the current protocols mean we will be limiting the numbers of campers. &nbsp;The health and wellbeing of our children and families are our main concern.<br>We will confirm dates as soon as we can. &nbsp;For provisional dates scroll below.<br>We can't wait to see you all back on the stage at The Adele Grage Theatre very soon!!<br><br>",
+          "title": "Program Info 2021",
+          "text": "<br>We hope to have confirmation of dates for Summer 2021 very soon!!<br>Due to the impact from Covid 19, the current protocols mean we will be limiting the numbers of campers. &nbsp;The health and wellbeing of our children and families are our main concern.<br>We will confirm dates as soon as we can. &nbsp;For provisional dates scroll below.<br>We can't wait to see you all back on the stage at The Adele Grage Theatre very soon!!<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
