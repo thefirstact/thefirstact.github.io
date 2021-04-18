@@ -1,14 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
-#msg-box4-1r .mbr-header__text {
+#Main-Title-Page .mbr-header__text {
   color: #f6faaf;
   font-size: 46px;
   font-family: 'Montserrat', sans-serif;
 }
-#msg-box4-1r .mbr-header__subtext {
+#Main-Title-Page .mbr-header__subtext {
   color: #ffffff;
 }
-#msg-box4-1r .mbr-article {
+#Main-Title-Page .mbr-article {
   color: #ffffff;
 }
 #menu-0 .mbr-brand__name {
@@ -34,51 +34,41 @@
 }
 #Donate .mbr-article {
   color: #f6faaf;
+  font-size: 17px;
 }
-#Program .mbr-header .mbr-header__text {
+#Program-Info .mbr-header .mbr-header__text {
   color: #f6faaf;
   text-align: center;
   font-size: 46px;
 }
-#Program .mbr-article {
+#Program-Info .mbr-article {
   color: #f6faaf;
 }
-#Program .mbr-article P {
-  font-size: 14px;
+#Program-Info .mbr-article P {
+  font-size: 17px;
 }
-#header4-65 H1 {
+#Dates-Rates H1 {
   color: #f6faaf;
 }
-#header4-65 P {
+#Dates-Rates P {
   color: #f6faaf;
-  font-size: 24px;
+  font-size: 20px;
   text-align: center;
 }
-#header4-65 B {
+#Dates-Rates B {
   font-size: 46px;
 }
-#Camps .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #f6faaf;
-}
-#Camps .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#Camps .mbr-article {
-  color: #fff;
-}
-#msg-box4-5i .mbr-header__text {
+#Summer-Camp-19 .mbr-header__text {
   color: #f6faaf;
   font-size: 46px;
 }
-#msg-box4-5i .mbr-header__subtext {
+#Summer-Camp-19 .mbr-header__subtext {
   color: #ffffff;
 }
-#msg-box4-5i .mbr-article {
+#Summer-Camp-19 .mbr-article {
   color: #ffffff;
 }
-#msg-box4-5i .mbr-article P {
+#Summer-Camp-19 .mbr-article P {
   color: #f6faaf;
   font-size: 19px;
   text-align: left;
@@ -97,6 +87,7 @@
 #msg-box4-6c .mbr-header__text {
   color: #f6faaf;
   text-align: left;
+  font-size: 30px;
 }
 #msg-box4-6c .mbr-header__subtext {
   color: #ffffff;
@@ -107,6 +98,7 @@
 #msg-box4-69 .mbr-header__text {
   color: #f6faaf;
   text-align: left;
+  font-size: 30px;
 }
 #msg-box4-69 .mbr-header__subtext {
   color: #ffffff;
@@ -117,52 +109,32 @@
 #msg-box4-69 .mbr-article P {
   color: #8538c3;
 }
-#content5-5y .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #f6faaf;
-}
-#content5-5y .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-5y .mbr-article {
-  color: #fff;
-}
 #msg-box4-6d .mbr-header__text {
   color: #f6faaf;
-  font-size: 25px;
+  font-size: 30px;
 }
 #msg-box4-6d .mbr-header__subtext {
-  color: #8538c3;
+  color: #f6faaf;
 }
 #msg-box4-6d .mbr-article {
   color: #ffffff;
 }
 #msg-box4-52 .mbr-header__text {
-  color: #f7da64;
+  color: #f6faaf;
+  font-size: 30px;
 }
 #msg-box4-52 .mbr-header__subtext {
-  color: #ffffff;
+  color: #f6faaf;
 }
 #msg-box4-52 .mbr-article {
-  color: #ffffff;
+  color: #f6faaf;
 }
 #msg-box4-52 .mbr-article P {
   color: #f7da64;
 }
-#content5-5z .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #f6faaf;
-}
-#content5-5z .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-5z .mbr-article {
-  color: #fff;
-}
 #msg-box4-55 .mbr-header__text {
   color: #f6faaf;
+  font-size: 30px;
 }
 #msg-box4-55 .mbr-header__subtext {
   color: #ffffff;
@@ -174,26 +146,6 @@
   color: #f6faaf;
   font-size: 25px;
 }
-#content5-60 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #f6faaf;
-}
-#content5-60 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-60 .mbr-article {
-  color: #fff;
-}
-#msg-box4-58 .mbr-header__text {
-  color: #f6faaf;
-}
-#msg-box4-58 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-58 .mbr-article {
-  color: #f6faaf;
-}
 #msg-box3-61 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -202,33 +154,33 @@
 }
 #msg-box3-61 .mbr-header .mbr-header__text P {
   color: #f6faaf;
+  font-size: 46px;
 }
 #gallery1-m SMALL {
   font-size: 16px;
 }
-#content5-1o .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-1o .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-1o .mbr-article {
-  color: #fff;
-}
-#testimonials1-14 .mbr-reviews__text {
-  color: #000000;
-}
-#testimonials1-14 .mbr-section__header {
+#Tempest-Photos .mbr-header__text {
   color: #f6faaf;
   font-size: 30px;
 }
-#testimonials1-14 .mbr-reviews__author-name {
+#Tempest-Photos .mbr-header__subtext {
+  color: #ffffff;
+}
+#Tempest-Photos .mbr-article {
+  color: #f6faaf;
+}
+#About .mbr-reviews__text {
+  color: #000000;
+}
+#About .mbr-section__header {
+  color: #f6faaf;
+  font-size: 30px;
+}
+#About .mbr-reviews__author-name {
   color: #efefef;
   font-size: 16px;
 }
-#testimonials1-14 .mbr-reviews__author-bio {
+#About .mbr-reviews__author-bio {
   color: #efefef;
   font-size: 16px;
 }
@@ -256,19 +208,19 @@
 #testimonials1-42 .mbr-reviews__text {
   color: #000000;
 }
-#content5-4s .mbr-header .mbr-header__text {
+#Midsummer .mbr-header .mbr-header__text {
   text-align: center;
   color: #f6faaf;
   font-size: 30px;
 }
-#content5-4s .mbr-header .mbr-header__subtext {
+#Midsummer .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-4s .mbr-article {
+#Midsummer .mbr-article {
   color: #fff;
 }
-#gallery1-11 SMALL {
+#Midsummer-Reviews SMALL {
   font-size: 16px;
 }
 #testimonials1-16 .mbr-reviews__text {
@@ -284,27 +236,27 @@
 #content5-4o .mbr-header .mbr-header__text {
   text-align: center;
   color: #f6faaf;
-  font-size: 30px;
+  font-size: 46px;
 }
 #content5-4o .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
 #content5-4o .mbr-article {
-  color: #fff;
-  font-size: 16px;
+  color: #f6faaf;
+  font-size: 20px;
 }
-#gallery1-1a SMALL {
+#Reminiscence-Reviews SMALL {
   color: #ffffff;
 }
-#testimonials1-1b .mbr-reviews__text {
+#What-Adults-Got-Up-To .mbr-reviews__text {
   color: #000000;
 }
-#testimonials1-1b .mbr-section__header {
+#What-Adults-Got-Up-To .mbr-section__header {
   color: #f6faaf;
   font-size: 30px;
 }
-#testimonials1-1b .mbr-reviews__author-name {
+#What-Adults-Got-Up-To .mbr-reviews__author-name {
   color: #efefef;
   font-size: 16px;
 }
