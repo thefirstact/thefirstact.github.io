@@ -2,24 +2,24 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "4.12.3",
+    "versionPublish": "5.6.11",
     "name": "My Site-clone",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
+        "#7920c1",
+        "#f95e45",
         "#2d7265",
         "#88d1ef",
         "#e47165",
         "#777777",
-        "#f68572",
-        "#f6faaf",
-        "#8538c3"
+        "#f68572"
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 283,
+    "uniqCompNum": 299,
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "favicon": false,
@@ -35,7 +35,8 @@
       "checkoutLabelButton": "Donate              ",
       "email": "aine@thefirstactcct.org",
       "currency": "USD"
-    }
+    },
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -117,7 +118,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "Main-Title-Page"
+          "_anchor": "Main-Title-Page",
+          "_sourceTheme": "default"
         },
         {
           "_name": "menu",
@@ -157,7 +159,8 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-42\">REVIEWS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Dates-Rates\"><p>CAMPS</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Summer-Camp-Gallery\">GALLERY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-4o\">REMINISCENCE THEATRE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Program-Info\">PROGRAM</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Donate\">DONATE<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>  "
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>  ",
+          "_sourceTheme": "default"
         },
         {
           "_name": "footer1",
@@ -174,7 +177,8 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -199,11 +203,11 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/2015-04-01-17.22.08-1-1280x544.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -211,7 +215,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": true,
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
@@ -223,7 +227,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "Donate"
+          "_anchor": "Donate",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -234,7 +239,7 @@
             "showText": true,
             "showButton": true,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -250,7 +255,7 @@
             "overlayOpacity": 0.2
           },
           "title": "How To Support Our Mission",
-          "text": "<p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p><p>A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE.</p><p><br></p><p><br></p>",
+          "text": "<p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p><p>A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;item_name=Custom+Item&amp;item_number=%2410&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><div> <button style=\"color: rgb(255, 255, 255); font-size: 14px; font-family: &quot;Trebuchet MS&quot;; font-weight: normal; background-color: rgb(74, 144, 226); padding: 7px 16px; border-radius: 3px; border-width: 1px; border-style: solid; border-color: rgb(74, 144, 226); box-shadow: rgba(0, 0, 0, 0.247059) 0px 2px 4px 0px;\">Donate Now</button><script src=\"https://www.convergepay.com/hosted-payments/buy_button_script/7246736d474f72745450716f786a496857375474694141414157324d39326668\"></script></div></a>  ",
           "_tags": [
             "Theme"
@@ -275,51 +280,59 @@
             ".mbr-article P": {
               "font-size": "17px"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
-          "_inherit": "header1",
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fac51c"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fac51c"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cimg8745-2000x1024.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pxl-20220613-605856-2000x1198.jpg",
+            "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#4c6972",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "darkBackground": true,
+            "overlay": false,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
           },
-          "title": "Spring Program 2022<br>Classes for 2nd Grade to Middle School students are<br>offered Saturday mornings, Monday evenings and workshops are offered on day's off School!<br>See below for dates and rates!<br>Homeschool groups are also being planned so do get in touch if you are interested in setting up a daytime group!<br><br>",
-          "text": "<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "title": "Fall Classes for 2022!!!",
+          "text": "<p><b>Saturday Aug 27th to Nov 19th</b><br></p><p><b>9am to 11:00am &nbsp;3rd-4th Grades\n</b></p><p><b>Sat Aug 27th to Dec 3rd\n</b></p><p><b>11:15 to 1:15&nbsp;5 4th - 6th Grades&nbsp;\n</b></p><p><b>Sunday August 28th to Dec 10th\n</b></p><p><b>1pm to 3pm&nbsp; Middle school Grades&nbsp;</b></p><p><b>Tues Aug 30th to Nov 1st</b></p><p><b>Introduction class 2nd - 4th Grades&nbsp;</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "Dates-Rates",
-          "_styles": {
-            "H1": {
-              "color": "#f6faaf"
-            },
-            "P": {
-              "color": "#f6faaf",
-              "font-size": "20px",
-              "text-align": "center"
-            },
-            "B": {
-              "font-size": "46px"
-            }
-          }
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_sourceTheme": "default",
+          "_anchor": "content5-80"
         },
         {
           "_inherit": "msg-box5",
@@ -330,8 +343,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "50",
-            "paddingTop": "3",
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -367,8 +380,8 @@
               "size": 0
             }
           },
-          "title": "Spring 2022 Dates, Rates, Time and Location&nbsp;",
-          "text": "<p><b><br></b></p><p><b>Dates for drama classes for elementary and middle school children for Spring 2022 are below.&nbsp;</b><b>&nbsp;We will continue to have limited numbers in camps, workshops and classes this year and a smaller audience for performances. We will of course follow all health guidelines and sanitizing procudures. &nbsp;At present there is not a mask mandate in the building we rent.&nbsp;</b></p><p><b>All other information remains the same.&nbsp;</b></p><p><b>All classes are two hours in duration</b></p><p><b>Saturday Classes &nbsp;Jan 8th to April 2nd - Performance on &nbsp;Sat April 2nd &nbsp;at 7pm &nbsp; &nbsp;</b><b>2-3rd Grade</b></p><p><b>9:00am to 11:00am &nbsp;- Semester cost $340</b></p><p><b>Saturday Class Jan 8th to April 9th &nbsp;- Performance on Sat April 9th at 7pm &nbsp;</b><b>4-6th Grade</b></p><p><b>11:15am to 1:15pm - Semester cost $340</b></p><p><b><br></b></p><p><b>Monday Class - Jan 10th to April 10th - Performance on Sat April</b></p><p><b>16th at 7pm &nbsp;</b><b>Upper Middle School</b></p><p><b>5pm to 7pm - Semester cost $340</b></p><p><b><br></b></p><p><b>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!</b></p><p><br></p><p>Deposit of $100 must be sent with Registration before confirmation. &nbsp;Deposit refundable up to two weeks before start of class.<br></p><p><b>Workshops and Spring Break Classes</b></p><p><b>Day's off School Workshops</b></p><p><b>Mon Feb 21st 9am to 1pm 2nd-3rd Grade &nbsp;$40</b></p><p><b>Mon March 14th 9am to 1pm 2nd-3rd Grade  $40</b></p><p><b>Tues March 15th 9am to 1pm 2nd-3rd Grade  $40</b></p><p><b>Wed March 16th 9am to 1pm 4th-6th Grade $40</b></p><p><b>Thurs March 17th 9am to 1pm 4th-6th Grade $0</b></p><p><b>Friday March 18th Improv Skills Middle School 9am- 3pm $60&nbsp;</b></p><p><b>Scholarships (Full and partial) considered based on reservation numbers. &nbsp;Please contact us to discuss. &nbsp;If you would like to donate a sholarship fee to a family, please use our donate button above. &nbsp;It is a tax deductible donation.&nbsp;</b><br></p><p><b>Location</b></p><p>All camps held at The Adele Grage Cultural Center Theatre,\n</p><p>716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone or text</p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook</p><p><b>https://www.facebook.com/thefirstact/</b></p><p><br></p>",
+          "title": "Summer 2022 Dates, Rates, Time and Location&nbsp;",
+          "text": "<p>Dates for Summer Camp 2022 !!!<br></p><p>July 11 - 22       4-6th Grade<br></p><p>July 25 - Aug 5     4-6th Grade\n</p><p>August 8 - 12     2-3rd Grade</p><p>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!<br></p><p>Each camp is $240 per child per week. &nbsp;All are two week camps except the last one. &nbsp;Only coming for one week is not an option. &nbsp;</p><p>Deposit of $100 must be sent with Registration before confirmation. &nbsp;Deposit refundable up to two weeks before start of camp.</p><p>All camps culminate in a play on the last day at 1:00pm. Main Costumes are provided but we don't carry shoes/boots or basics like leggings or shirts. &nbsp;</p><p>A cooler bag lunch, a long drink, comfortable clothes, a curious attitude and an excitement to make friends are all that's required.&nbsp;</p><p><b>Scholarships (Full and partial) considered based on reservation numbers. &nbsp;Please contact us to discuss. &nbsp;If you would like to donate a sholarship fee to a family, please use our donate button above. &nbsp;It is a tax deductible donation.&nbsp;</b><br></p><p><b>Location</b></p><p>All camps/Classes held at The Adele Grage Cultural Center Theatre,\n</p><p>716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone or text</p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook</p><p><b>https://www.facebook.com/thefirstact/</b></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -393,19 +406,20 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "Summer-Camp-19"
+          "_anchor": "Summer-Camp-19",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showMeta": false,
+            "showMeta": true,
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "imageSize": "14",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -424,10 +438,11 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/waving-fairy-tale-news-19-1400x860.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pxl-20220623-155111733-1400x1222.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -441,7 +456,7 @@
               "size": 0
             }
           },
-          "title": "<br>Summer Camps &nbsp;'19",
+          "title": "<br>Summer Camp 2022&nbsp;<br><br>",
           "text": "",
           "_tags": [
             "Theme"
@@ -449,8 +464,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#f6faaf",
-              "text-align": "left",
-              "font-size": "46px"
+              "text-align": "center",
+              "font-size": "36px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -459,11 +474,144 @@
               "color": "#ffffff"
             }
           },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
+          "headerAlign": "center",
+          "meta": "The Dori Story June&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6g"
+          "_anchor": "msg-box4-6g",
+          "_sourceTheme": "default"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#7920c1",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220621-133035810-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220621-133035810-2000x2667-800x767.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20220625-204612-446x238.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220625-204612-446x238-446x238.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220623-155211253-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220623-155211253-2000x2667-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220621-133051947-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220621-133051947-2000x2667-800x786.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220624-161847580-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220624-161847580-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220623-155111733-2000x1746.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220623-155111733-2000x1746-800x698.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220621-2736371-2000x1452.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220621-2736371-2000x1452-800x581.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220617-150916635-1200x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220617-150916635-1200x1600-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220617-152532022-1200x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220617-152532022-1200x1600-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220617-150252205-1200x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220617-150252205-1200x1600-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220617-144652867-1200x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220617-144652867-1200x1600-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220617-152854919-1200x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220617-152854919-1200x1600-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220617-145759015-1200x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220617-145759015-1200x1600-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pxl-20220617-152345817-1200x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pxl-20220617-152345817-1200x1600-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_sourceTheme": "default",
+          "_anchor": "gallery1-7w"
         },
         {
           "_params": {
@@ -473,7 +621,7 @@
             "noGutter": true,
             "showText": true,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#00a885",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/20190718-100708-2000x1500.jpg",
@@ -594,7 +742,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "S-Holmes-Book-of"
+          "_anchor": "S-Holmes-Book-of",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -664,7 +813,8 @@
           "meta": "Middle School Spring '19 Semester Play&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6c"
+          "_anchor": "msg-box4-6c",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -725,7 +875,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "Sleeping-Beauty"
+          "_anchor": "Sleeping-Beauty",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -798,7 +949,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-69"
+          "_anchor": "msg-box4-69",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -908,7 +1060,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-68"
+          "_anchor": "gallery1-68",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -977,7 +1130,8 @@
           "meta": "Spring' 19 Junior Class",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6d"
+          "_anchor": "msg-box4-6d",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1038,7 +1192,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "Snapshots-in-time"
+          "_anchor": "Snapshots-in-time",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -1110,7 +1265,8 @@
           "meta": "By Aine Healy-Richardson with stories from students and families",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-52"
+          "_anchor": "msg-box4-52",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1206,7 +1362,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "S-Holmes-Emerald"
+          "_anchor": "S-Holmes-Emerald",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -1279,7 +1436,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-55"
+          "_anchor": "msg-box4-55",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1354,7 +1512,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "Summer-Camp-Gallery"
+          "_anchor": "Summer-Camp-Gallery",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -1399,7 +1558,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-61"
+          "_anchor": "msg-box3-61",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1493,7 +1653,8 @@
             "SMALL": {
               "font-size": "16px"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1568,7 +1729,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-1y"
+          "_anchor": "gallery1-1y",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1643,7 +1805,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-1t"
+          "_anchor": "gallery1-1t",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1725,7 +1888,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "Review-camps"
+          "_anchor": "Review-camps",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -1794,7 +1958,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "Tempest-Photos"
+          "_anchor": "Tempest-Photos",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -1883,7 +2048,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "Summer-Camp-Gallery"
+          "_anchor": "Summer-Camp-Gallery",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2018,7 +2184,8 @@
               "color": "#efefef",
               "font-size": "16px"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -2082,8 +2249,9 @@
           "headerAlign": "left",
           "title": "About",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Aine Healy-Richardson is the executive director and drama teacher at The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Dublin, Ireland with a long history of working with children (including her twenty-five nieces and nephews). &nbsp;She grew up in an Oral Tradition – both her parents were great Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland. Aine was also part of a Community Theatre Group in London, gaining experience on and off stage. &nbsp;Aine spent fourteen years living and working in London where she worked as an Occupational Therapist in Community Mental Health. &nbsp;As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Mental Health for over ten years. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children. &nbsp; But now she puts on plays too, and so much more!</p><p><br></p><p>Having moved to the Jacksonville Beaches &nbsp;in 2001 to marry Wes, Aine has since combined her love for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea , The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School, Atlantic Beach Elementary School and The Jordan Centre.<br></p><p>In 2008 Aine started The First Act and in 2010 formed a collaboration with ABET Theatre where she happily taught classes and camps until 2016.</p><p>In Oct 2016 The First Act was awarded a contract with The City of Atlantic Beach to proivde the children's theatre program at The Adele Grage Theatre in Atlantic Beach FL. &nbsp;TFA are extremely appreciatiave to work in such a perfect environment for Children. &nbsp;A small and intimate stage next to a playground and two blocks from the beautiful ocean. &nbsp;Children walk, bike and skate to class and camp. &nbsp;Thank you City of Atlantic Beach!</p><p>  \n</p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children, and Reminiscence for Seniors. &nbsp; </p><p>This work is a collaborative effort by parents, children and volunteer artists, teachers and technicians. &nbsp;</p><p>Wes Richardson has been a volunteer Technical Director for The First Act since it opened it's doors in 2008 and works on it's behalf in some way or another on a daily basis!</p><p>Anne Roberts has volunteered her skills and expertise to these children for over seven years, passing on her knowledge and creating all kinds of props and set pieces that serve to greatly enhance the experience of story-telling for the children. &nbsp;</p><p>Mary Jo Evans has been volunteering her time at class and backstage for the past three years and brings a calm and nurturing influence to the work and is loved by the kids.</p><p>Rachel Dorrian a silent (and unpaid) partner for many years helped Aine build the program by tirelessly promoting and recommending to other parents and by being there to set up and break down on more occassions than can be counted.<br></p><p>Ingrid McCawley &nbsp;has been a wonderful parent and advocate for this work and this program and has given a tremendous amount of time to it for many years. &nbsp;We are delighted to have her serve as President of it's Board.</p><p>To all the above, and the many many more people who support Aine in this work, she thanks them heartily. &nbsp;</p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but I believe studying drama helps all my students to develop communications skills, gain increased empathy and understanding of others, explore their emotions and, importantly, to have fun with a group of friends\" &nbsp;<br></p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p>Board of Directors<br></p><p>P Ingrid McCawley &nbsp;VP Louis Weimer &nbsp; Tr Susan Stevens &nbsp; Sec Ginny Brinkley</p><p>D Renee Faure &nbsp; &nbsp;Aine Healy-Richardson</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "text": "<p>Aine Healy-Richardson is the executive director and drama teacher at The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Dublin, Ireland with a long history of working with children (including her twenty-five nieces and nephews). &nbsp;She grew up in an Oral Tradition – both her parents were great Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland. Aine was also part of a Community Theatre Group in London, gaining experience on and off stage. &nbsp;Aine worked as an Occupational Therapist in Community Mental Health in London and Ireland for over a decade. &nbsp;As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Community Mental Health. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children. &nbsp; But now she puts on plays too, and so much more!</p><p><br></p><p>Having moved to the Jacksonville Beaches &nbsp;in 2001 to marry Wes, Aine has since combined her love for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea , The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School, Atlantic Beach Elementary School and The Jordan Centre.<br></p><p>In 2008 Aine started The First Act and in 2010 formed a collaboration with ABET Theatre where she happily taught classes and camps until 2016.</p><p>In Oct 2016 The First Act was awarded a contract with The City of Atlantic Beach to proivde the children's theatre program at The Adele Grage Theatre in Atlantic Beach FL. &nbsp;TFA are extremely appreciative to work in such a perfect environment for children. &nbsp;A small and intimate stage next to a playground and two blocks from the beautiful ocean. &nbsp;Children walk, bike and skate to class and camp. &nbsp;Thank you City of Atlantic Beach!</p><p>  \n</p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children, and Reminiscence for Seniors. &nbsp; </p><p>This work is a collaborative effort by parents, children and volunteer artists, teachers and technicians. &nbsp;</p><p>Wes Richardson has been a volunteer Technical Director for The First Act since it opened it's doors in 2008 and works on it's behalf in some way or another on a daily basis!</p><p>Anne Roberts has volunteered her skills and expertise to these children for over seven years, passing on her knowledge and creating all kinds of props and set pieces that serve to greatly enhance the experience of story-telling for the children. &nbsp;</p><p>Mary Jo Evans has volunteered her time at class and backstage for several years and brings a calm and nurturing influence to the work and is loved by the kids.</p><p>Rachel Dorrian a silent (and unpaid) partner for many years helped build the program by tirelessly promoting and recommending to other parents and by being there to set up and break down on more occasions than can be counted.<br></p><p>Ingrid McCawley &nbsp;has been a wonderful parent and advocate for this work and this program and has given a tremendous amount of time to it for many years. &nbsp;We are delighted to have her serve as President of it's Board.</p><p>To all the above, and the many many more people who support Aine, and this work, she thanks them heartily. &nbsp;</p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but I believe studying drama helps all my students to develop communications skills, gain increased empathy and understanding of others, explore their emotions and, importantly, to have fun with a group of friends\" &nbsp;<br></p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p>Board of Directors<br></p><p>P Ingrid McCawley &nbsp;VP Louis Weimer &nbsp; Tr Susan Stevens &nbsp; Sec Ginny Brinkley</p><p>D Renee Faure&nbsp; &nbsp; ED Aine Healy-Richardson</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2198,7 +2366,8 @@
             ".mbr-reviews__text": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -2246,7 +2415,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "Midsummer"
+          "_anchor": "Midsummer",
+          "_sourceTheme": "default"
         },
         {
           "_name": "gallery1",
@@ -2319,7 +2489,8 @@
             "SMALL": {
               "font-size": "16px"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2394,7 +2565,8 @@
             ".mbr-reviews__author-name": {
               "color": "#efefef"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -2443,7 +2615,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-4o"
+          "_anchor": "content5-4o",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2523,7 +2696,8 @@
             "SMALL": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2624,7 +2798,8 @@
               "color": "#efefef",
               "font-size": "16px"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -2672,7 +2847,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-21"
+          "_anchor": "content5-21",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2747,7 +2923,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "What-adults-said"
+          "_anchor": "What-adults-said",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2847,7 +3024,8 @@
             ".mbr-reviews__text": {
               "color": "#000000"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -2894,7 +3072,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-1j"
+          "_anchor": "content5-1j",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2920,7 +3099,8 @@
             ".mbr-header__text": {
               "color": "#f6faaf"
             }
-          }
+          },
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -2952,7 +3132,8 @@
             "P": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -3035,7 +3216,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6i"
+          "_anchor": "msg-box4-6i",
+          "_sourceTheme": "default"
         },
         {
           "_name": "menu",
@@ -3075,7 +3257,8 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-42\">REVIEWS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Dates-Rates\"><p>CAMPS</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Summer-Camp-Gallery\">GALLERY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-4o\">REMINISCENCE THEATRE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Program-Info\">PROGRAM</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#Donate\">DONATE<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>  ",
-          "_anchor": "menu-6j"
+          "_anchor": "menu-6j",
+          "_sourceTheme": "default"
         },
         {
           "_name": "footer1",
@@ -3092,7 +3275,8 @@
             "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_anchor": "footer1-6k"
+          "_anchor": "footer1-6k",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -3140,7 +3324,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-6l"
+          "_anchor": "content5-6l",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -3187,7 +3372,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-6m"
+          "_anchor": "content5-6m",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "header1",
@@ -3231,7 +3417,8 @@
               "font-size": "46px"
             }
           },
-          "_anchor": "header4-6n"
+          "_anchor": "header4-6n",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -3278,7 +3465,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-6o"
+          "_anchor": "content5-6o",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -3351,7 +3539,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6p"
+          "_anchor": "msg-box4-6p",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -3397,7 +3586,8 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-6q"
+          "_anchor": "msg-box1-6q",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -3466,7 +3656,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6r"
+          "_anchor": "msg-box4-6r",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -3597,7 +3788,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-6s"
+          "_anchor": "gallery1-6s",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -3666,7 +3858,8 @@
           "meta": "Middle School Spring '19 Semester Play&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6t"
+          "_anchor": "msg-box4-6t",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -3727,7 +3920,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-6u"
+          "_anchor": "gallery1-6u",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -3799,7 +3993,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6v"
+          "_anchor": "msg-box4-6v",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -3909,7 +4104,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-6w"
+          "_anchor": "gallery1-6w",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -3956,7 +4152,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-6x"
+          "_anchor": "content5-6x",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -4025,7 +4222,8 @@
           "meta": "Spring' 19 Junior Class",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-6y"
+          "_anchor": "msg-box4-6y",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4086,7 +4284,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-6z"
+          "_anchor": "gallery1-6z",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -4157,7 +4356,8 @@
           "meta": "By Aine Healy-Richardson with stories from students and families",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-70"
+          "_anchor": "msg-box4-70",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -4204,7 +4404,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-71"
+          "_anchor": "content5-71",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4300,7 +4501,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-72"
+          "_anchor": "gallery1-72",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -4372,7 +4574,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-73"
+          "_anchor": "msg-box4-73",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4447,7 +4650,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-74"
+          "_anchor": "gallery1-74",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -4494,7 +4698,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-75"
+          "_anchor": "content5-75",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -4562,7 +4767,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-76"
+          "_anchor": "msg-box4-76",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4651,7 +4857,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-77"
+          "_anchor": "gallery1-77",
+          "_sourceTheme": "default"
         },
         {
           "_styles": {
@@ -4695,7 +4902,8 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-78"
+          "_anchor": "msg-box3-78",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4789,7 +4997,8 @@
               "font-size": "16px"
             }
           },
-          "_anchor": "gallery1-79"
+          "_anchor": "gallery1-79",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -4836,7 +5045,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-7a"
+          "_anchor": "content5-7a",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4911,7 +5121,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-7b"
+          "_anchor": "gallery1-7b",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -4986,7 +5197,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-7c"
+          "_anchor": "gallery1-7c",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5068,7 +5280,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-7d"
+          "_anchor": "gallery1-7d",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5203,7 +5416,8 @@
               "font-size": "16px"
             }
           },
-          "_anchor": "testimonials1-7e"
+          "_anchor": "testimonials1-7e",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box5",
@@ -5268,7 +5482,8 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Aine Healy-Richardson is the executive director and drama teacher at The First Act Children's Community Theatre Inc.&nbsp;</p><p>Aine is a native of Dublin, Ireland with a long history of working with children (including her twenty-five nieces and nephews). &nbsp;She grew up in an Oral Tradition – both her parents were great Storytellers with a passion for poetry and her immediate and extended family are  involved in Theatre in Ireland. Aine was also part of a Community Theatre Group in London, gaining experience on and off stage. &nbsp;Aine spent fourteen years living and working in London where she worked as an Occupational Therapist in Community Mental Health. &nbsp;As part of that training, she originally studied Therapeutic Drama which she put into practice with adults and seniors in Mental Health for over ten years. Part of the purpose of that work was to help people increase self-confidence in all aspects of communication, and to use creative drama techniques to explore and express emotions.  This is still part of the focus of her work with Children. &nbsp; But now she puts on plays too, and so much more!</p><p><br></p><p>Having moved to the Jacksonville Beaches &nbsp;in 2001 to marry Wes, Aine has since combined her love for Drama and working with children. &nbsp;Since 2005 Aine has taught classes at ABET Theatre, &nbsp;Players By The Sea , The Ponte Vedra Cultural Centre, The Cathedral Arts Foundation at The Carver Centre, Discovery Montessori School, Tides Montessori School, Beaches Episcopal School, Atlantic Beach Elementary School and The Jordan Centre.<br></p><p>In 2008 Aine started The First Act and in 2010 formed a collaboration with ABET Theatre where she happily taught classes and camps until 2016.</p><p>In Oct 2016 The First Act was awarded a contract with The City of Atlantic Beach to proivde the children's theatre program at The Adele Grage Theatre in Atlantic Beach FL. &nbsp;TFA are extremely appreciatiave to work in such a perfect environment for Children. &nbsp;A small and intimate stage next to a playground and two blocks from the beautiful ocean. &nbsp;Children walk, bike and skate to class and camp. &nbsp;Thank you City of Atlantic Beach!</p><p>  \n</p><p>In August 2017 The First Act Children’s Community Theatre Inc was formed and became a non-profit 501(c)3 registered in the state of Florida.  With a board of directors and many volunteers and supporters, The First Act CCT looks forward to working with children and seniors together on a regular basis and promoting the benefits of drama for all children, and Reminiscence for Seniors. &nbsp; </p><p>This work is a collaborative effort by parents, children and volunteer artists, teachers and technicians. &nbsp;</p><p>Wes Richardson has been a volunteer Technical Director for The First Act since it opened it's doors in 2008 and works on it's behalf in some way or another on a daily basis!</p><p>Anne Roberts has volunteered her skills and expertise to these children for over seven years, passing on her knowledge and creating all kinds of props and set pieces that serve to greatly enhance the experience of story-telling for the children. &nbsp;</p><p>Mary Jo Evans has been volunteering her time at class and backstage for the past three years and brings a calm and nurturing influence to the work and is loved by the kids.</p><p>Rachel Dorrian a silent (and unpaid) partner for many years helped Aine build the program by tirelessly promoting and recommending to other parents and by being there to set up and break down on more occassions than can be counted.<br></p><p>Ingrid McCawley &nbsp;has been a wonderful parent and advocate for this work and this program and has given a tremendous amount of time to it for many years. &nbsp;We are delighted to have her serve as President of it's Board.</p><p>To all the above, and the many many more people who support Aine in this work, she thanks them heartily. &nbsp;</p><p>“I am fascinated with stories and all the ways there are to tell them. Children are natural storytellers and I believe that they benefit enormously and get great satisfaction from this work.  It is wonderful to see so many of my students go on to receive further training in theatre, but I believe studying drama helps all my students to develop communications skills, gain increased empathy and understanding of others, explore their emotions and, importantly, to have fun with a group of friends\" &nbsp;<br></p><p>Aine Healy-Richardson 2017<br></p><p>\n</p><p>Board of Directors<br></p><p>P Ingrid McCawley &nbsp;VP Louis Weimer &nbsp; Tr Dorris Croasdell &nbsp; Sec Ginny Brinkley</p><p>D Renee Faure &nbsp; &nbsp;Aine Healy-Richardson</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_anchor": "msg-box4-7f"
+          "_anchor": "msg-box4-7f",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5383,7 +5598,8 @@
               "color": "#000000"
             }
           },
-          "_anchor": "testimonials1-7g"
+          "_anchor": "testimonials1-7g",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -5431,7 +5647,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-7h"
+          "_anchor": "content5-7h",
+          "_sourceTheme": "default"
         },
         {
           "_name": "gallery1",
@@ -5504,7 +5721,8 @@
               "font-size": "16px"
             }
           },
-          "_anchor": "gallery1-7i"
+          "_anchor": "gallery1-7i",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5579,7 +5797,8 @@
               "color": "#efefef"
             }
           },
-          "_anchor": "testimonials1-7j"
+          "_anchor": "testimonials1-7j",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -5628,7 +5847,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-7k"
+          "_anchor": "content5-7k",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5708,7 +5928,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "gallery1-7l"
+          "_anchor": "gallery1-7l",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5809,7 +6030,8 @@
               "font-size": "16px"
             }
           },
-          "_anchor": "testimonials1-7m"
+          "_anchor": "testimonials1-7m",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -5857,7 +6079,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-7n"
+          "_anchor": "content5-7n",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -5932,7 +6155,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-7o"
+          "_anchor": "gallery1-7o",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6032,7 +6256,8 @@
               "color": "#000000"
             }
           },
-          "_anchor": "testimonials1-7p"
+          "_anchor": "testimonials1-7p",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -6079,7 +6304,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-7q"
+          "_anchor": "content5-7q",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6105,7 +6331,8 @@
               "color": "#f6faaf"
             }
           },
-          "_anchor": "social-buttons2-7r"
+          "_anchor": "social-buttons2-7r",
+          "_sourceTheme": "default"
         },
         {
           "_params": {
@@ -6137,7 +6364,8 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "contacts2-7s"
+          "_anchor": "contacts2-7s",
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "msg-box3",
@@ -6188,7 +6416,8 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-7t"
+          "_anchor": "content5-7t",
+          "_sourceTheme": "default"
         }
       ]
     }
