@@ -507,7 +507,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
