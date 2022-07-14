@@ -245,7 +245,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/horse%20drawn%20carraige-640x353.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#7ac673",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
