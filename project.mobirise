@@ -296,12 +296,15 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".btn": {
-              "font-size": "17px"
+              "font-size": "23px"
+            },
+            ".mbr-article DIV": {
+              "text-align": "left"
             }
           },
           "headerAlign": "center",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"assets/files/Raffle-Items.pdf\" data-toolbar=\"-mbrBtnMove\">Raffle Prizes</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"assets/files/Raffle-Items.pdf\" data-toolbar=\"-mbrBtnMove\">Raffle Prizes (PDF)</a>",
           "_name": "msg-box4",
           "_sourceTheme": "default",
           "_anchor": "msg-box4-8d"
