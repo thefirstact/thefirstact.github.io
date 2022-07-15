@@ -368,7 +368,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -404,8 +404,8 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "<br><br><br><br>Fall Classes for 2022!!!",
-          "text": "<p><b>Saturday Aug 27th to Nov 19th</b><br></p><p><b>9am to 11:00am &nbsp;3rd-4th Grades\n</b></p><p><b>Sat Aug 27th to Dec 3rd\n</b></p><p><b>11:15 to 1:15&nbsp;5 4th - 6th Grades&nbsp;\n</b></p><p><b>Sunday August 28th to Dec 10th\n</b></p><p><b>1pm to 3pm&nbsp; Middle school Grades&nbsp;</b></p><p><b>Tues Aug 30th to Nov 1st</b></p><p><b>Introduction class 2nd - 4th Grades&nbsp;</b></p>",
+          "title": "Fall Classes for 2022!!!",
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Saturday Aug 27th to Nov 19th</b><br></p><p><b>9am to 11:00am &nbsp;3rd-4th Grades\n</b></p><p><b>Sat Aug 27th to Dec 3rd\n</b></p><p><b>11:15 to 1:15&nbsp;5 4th - 6th Grades&nbsp;\n</b></p><p><b>Sunday August 28th to Dec 10th\n</b></p><p><b>1pm to 3pm&nbsp; Middle school Grades&nbsp;</b></p><p><b>Tues Aug 30th to Nov 1st</b></p><p><b>Introduction class 2nd - 4th Grades&nbsp;</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
