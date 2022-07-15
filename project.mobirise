@@ -423,7 +423,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "18",
+            "imageSize": "39",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -447,7 +447,8 @@
               "src": "@PROJECT_PATH@/assets/images/pxl-20211125-151854366-1400x1050.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
