@@ -187,7 +187,7 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#f6faaf",
-              "font-size": "46px"
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -352,7 +352,7 @@
             ".mbr-header .mbr-header__text": {
               "color": "#f6faaf",
               "text-align": "center",
-              "font-size": "46px"
+              "font-size": "30px"
             },
             ".mbr-article": {
               "color": "#f6faaf"
@@ -368,14 +368,15 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fac51c"
+              "color": "#efefef",
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             },
             ".mbr-article P": {
               "text-align": "center"
@@ -403,7 +404,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "Fall Classes for 2022!!!",
+          "title": "<br><br><br><br>Fall Classes for 2022!!!",
           "text": "<p><b>Saturday Aug 27th to Nov 19th</b><br></p><p><b>9am to 11:00am &nbsp;3rd-4th Grades\n</b></p><p><b>Sat Aug 27th to Dec 3rd\n</b></p><p><b>11:15 to 1:15&nbsp;5 4th - 6th Grades&nbsp;\n</b></p><p><b>Sunday August 28th to Dec 10th\n</b></p><p><b>1pm to 3pm&nbsp; Middle school Grades&nbsp;</b></p><p><b>Tues Aug 30th to Nov 1st</b></p><p><b>Introduction class 2nd - 4th Grades&nbsp;</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -422,8 +423,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "50",
-            "paddingTop": "2",
+            "imageSize": "18",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -468,7 +469,7 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#f6faaf",
-              "font-size": "46px"
+              "font-size": "30px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -492,7 +493,8 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -672,7 +674,8 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "30px"
             },
             ".mbr-article": {
               "color": "#fff"
@@ -844,11 +847,11 @@
           "_params": {
             "showTitle": true,
             "showMeta": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "0",
+            "imageSize": "10",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -980,7 +983,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "19",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -1165,7 +1168,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "11",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1297,7 +1300,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "14",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1467,7 +1470,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1619,7 +1622,7 @@
             },
             ".mbr-header .mbr-header__text P": {
               "color": "#f6faaf",
-              "font-size": "46px"
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -1993,9 +1996,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "imageSize": "10",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2031,21 +2034,23 @@
               "size": 0
             }
           },
-          "title": "The Tempest<br>Written by Geoff Bamber<br>Based on the original play<br>By William Shakespeare<br><br>",
-          "text": "Summer '18",
+          "title": "<br>The Tempest<br><br><br>",
+          "text": "By Geoff Bamber based on the original play by William Shakespeare - Summer '18",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "20px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#f6faaf"
+              "color": "#f6faaf",
+              "text-align": "left",
+              "font-size": "19px"
             }
           },
           "headerAlign": "left",
@@ -2151,8 +2156,8 @@
             "showName": true,
             "showBio": true,
             "count": "9",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2268,7 +2273,7 @@
             },
             ".mbr-section__header": {
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "22px"
             },
             ".mbr-reviews__author-name": {
               "color": "#efefef",
@@ -2452,7 +2457,7 @@
           "_styles": {
             ".mbr-section__header": {
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "20px"
             },
             ".mbr-reviews__author-name": {
               "color": "#efefef"
@@ -2469,7 +2474,7 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "20px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -2654,7 +2659,7 @@
             },
             ".mbr-section__header": {
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "20px"
             },
             ".mbr-reviews__author-name": {
               "color": "#efefef"
@@ -2668,7 +2673,7 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#f6faaf",
-              "font-size": "46px"
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -2685,8 +2690,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2886,7 +2891,7 @@
             },
             ".mbr-section__header": {
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "20px"
             },
             ".mbr-reviews__author-name": {
               "color": "#efefef",
@@ -2901,7 +2906,7 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "20px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -3110,7 +3115,7 @@
           "_styles": {
             ".mbr-section__header": {
               "color": "#f6faaf",
-              "font-size": "30px"
+              "font-size": "20px"
             },
             ".mbr-reviews__author-name": {
               "color": "#efefef"
