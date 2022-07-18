@@ -9,17 +9,17 @@
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
+        "#a888c1",
+        "#0e9b37",
+        "#d93404",
         "#ee2f00",
         "#7920c1",
         "#f95e45",
-        "#2d7265",
-        "#88d1ef",
-        "#e47165",
-        "#777777"
+        "#2d7265"
       ]
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 306,
+    "uniqCompNum": 309,
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "favicon": false,
@@ -205,7 +205,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/2015-04-01-17.22.08-1-1280x544.jpg",
             "parallax": false,
@@ -221,7 +221,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Mission Statement",
-          "text": "The First Act Children's Community Theatre was established to provide access to educational training in theatre for Children (K-12); to produce theatrical performances as a way for them to improve and demonstrate skills; to prepare students to pursue further theatrical training; to foster and strengthen the dramatic arts in the community of Jacksonville by promoting the developmental benefits of the dramatic arts for all children. We have a special interest in inter-generational work with local seniors using Reminiscence/Theatre projects to; foster relationships with older people; to create new dramatic works based on the memoirs of participants and to provide entertainment and recreational opportunities for the community.\n<div>Scholarships for students and seniors from under served communities will be provided where possible. &nbsp;Please scroll down to donate.</div><div>\n</div><div><br></div>",
+          "text": "<b>The First Act Children's Community Theatre was established to provide access to educational training in theatre for Children (K-12); to produce theatrical performances as a way for them to improve and demonstrate skills; to prepare students to pursue further theatrical training; to foster and strengthen the dramatic arts in the community of Jacksonville by promoting the developmental benefits of the dramatic arts for all children. We have a special interest in inter-generational work with local seniors using Reminiscence/Theatre projects to; foster relationships with older people; to create new dramatic works based on the memoirs of participants and to provide entertainment and recreational opportunities for the community.\n</b><div><b>Scholarships for students and seniors from under served communities will be provided where possible. &nbsp;Please scroll down to donate.</b></div><div>\n</div><div><br></div>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -230,6 +230,58 @@
           "_name": "content5",
           "_anchor": "Donate",
           "_sourceTheme": "default"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ee2f00",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#ee2f00"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#ee2f00",
+            "overlayOpacity": 0.2
+          },
+          "title": "How to support our mission",
+          "text": "<p><b>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email.  \n</b></p><p><b>Your donation is tax deductible as a charitible donation.\n</b></p><p><b>A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE.</b></p><p>\n</p><p>\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.paypal.com/donate/?hosted_button_id=KBDB6EJMMEVJY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_sourceTheme": "default",
+          "_anchor": "content5-8j"
         },
         {
           "_inherit": "msg-box5",
@@ -246,7 +298,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/horse%20drawn%20carraige-640x353.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7ac673",
+            "bgColor": "#41a85f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -278,7 +330,7 @@
             }
           },
           "title": "The Atlantic Beacherton Ball Fundraising Event of The Season!!",
-          "text": "<p>Sunday August 14, 2022 – 7pm to 9:30pm<br></p><p>The Adele Grage Cultural Center\n</p><p>716 Ocean Blvd, Atlantic Beach, FL 32233\n</p><p>\n</p><div><br></div><div>Join us for an evening of refined dancing and mingling with members of the ton!&nbsp;</div><div>Donation for reservation - $75.00/person\n</div><div>Elegant Hors d’oeuvres Served\n</div><div>Refreshing Non – Alcoholic Libations\n</div><div>Decadent Desserts\n</div><div><br></div><div>Raffle Tickets - $5.00/each - 5 for $20.00 – 30 for $100\n</div><div><br></div><div>Champagne &amp; Wine (Red &amp; White) – 2 raffle tickets a glass\n</div><div>Variety of Beers – 2 raffle tickets each\n</div><div><br></div><div>Become a Sponsor\n</div><div><br></div><div>RUBY – $250.00 - The Romantic Gem\n</div><div>Entrance for 2 to the Ball and 30 Raffle Tickets\n</div><div>Recognition in the Event Program and online\n</div><div><br></div><div>EMERALD - $500.00 – The Original Royal\n</div><div>Entrance for 4 to the Ball and 60 Raffle Tickets\n</div><div>Recognition in the Event Program and online\n</div><div><br></div><div>SAPPHIRE – $750.00 - The Prosperity Gem\n</div><div>Entrance for 6 to the Ball and 90 Raffle Tickets\n</div><div>Recognition in the Event Program and online\n</div><div><br></div><div>DIAMOND - $1,000.00 – The Forever Love\n</div><div>Entrance for 8 to the Ball and 120 Raffle Tickets\n</div><div>Recognition in the Event Program, online and verbally at the event\n</div><div>Horse drawn carriage rides around the ton – 2 raffle tickets/person\n</div><div><br></div><div>Click below for list of raffle prizes&nbsp;<br></div><div>Scroll down to donate/purchase tickets&nbsp;</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><p></p>",
+          "text": "<p><b>Sunday August 14, 2022 – 7pm to 9:30pm<br></b></p><p><b>The Adele Grage Cultural Center\n</b></p><p><b>716 Ocean Blvd, Atlantic Beach, FL 32233\n</b></p><p>\n</p><div><b><br></b></div><div><b>Join us for an evening of refined dancing and mingling with members of the ton!&nbsp;</b></div><div><b>Donation for reservation - $75.00/person\n</b></div><div><b>Elegant Hors d’oeuvres Served\n</b></div><div><b>Refreshing Non – Alcoholic Libations\n</b></div><div><b>Decadent Desserts\n</b></div><div><b><br></b></div><div><b>Raffle Tickets - $5.00/each - 5 for $20.00 – 30 for $100\n</b></div><div><b><br></b></div><div><b>Champagne &amp; Wine (Red &amp; White) – 2 raffle tickets a glass\n</b></div><div><b>Variety of Beers – 2 raffle tickets each\n</b></div><div><b><br></b></div><div><b>Become a Sponsor\n</b></div><div><b><br></b></div><div><b>RUBY – $250.00 - The Romantic Gem\n</b></div><div><b>Entrance for 2 to the Ball and 30 Raffle Tickets\n</b></div><div><b>Recognition in the Event Program and online\n</b></div><div><b><br></b></div><div><b>EMERALD - $500.00 – The Original Royal\n</b></div><div><b>Entrance for 4 to the Ball and 60 Raffle Tickets\n</b></div><div><b>Recognition in the Event Program and online\n</b></div><div><b><br></b></div><div><b>SAPPHIRE – $750.00 - The Prosperity Gem\n</b></div><div><b>Entrance for 6 to the Ball and 90 Raffle Tickets\n</b></div><div><b>Recognition in the Event Program and online\n</b></div><div><b><br></b></div><div><b>DIAMOND - $1,000.00 – The Forever Love\n</b></div><div><b>Entrance for 8 to the Ball and 120 Raffle Tickets\n</b></div><div><b>Recognition in the Event Program, online and verbally at the event\n</b></div><div><b>Horse drawn carriage rides around the ton – 2 raffle tickets/person\n</b></div><div><b>Scroll up to donate/purchase tickets&nbsp;</b></div><div><b><br></b></div><div><b>Click below for list of raffle prizes&nbsp;</b><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -305,70 +357,17 @@
           },
           "headerAlign": "center",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"assets/files/Raffle-Items.pdf\" data-toolbar=\"-mbrBtnMove\">Raffle Prizes (PDF)</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/Raffle-Items.pdf\" data-toolbar=\"-mbrBtnMove\">Raffle Prizes (PDF)</a>",
           "_name": "msg-box4",
           "_sourceTheme": "default",
           "_anchor": "msg-box4-8d"
         },
         {
           "_inherit": "msg-box3",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#1abc9c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "How To Support Our Mission",
-          "text": "<p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p><p>A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;item_name=Custom+Item&amp;item_number=%2410&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><div> <button style=\"color: rgb(255, 255, 255); font-size: 14px; font-family: &quot;Trebuchet MS&quot;; font-weight: normal; background-color: rgb(74, 144, 226); padding: 7px 16px; border-radius: 3px; border-width: 1px; border-style: solid; border-color: rgb(74, 144, 226); box-shadow: rgba(0, 0, 0, 0.247059) 0px 2px 4px 0px;\">Donate Now</button><script src=\"https://www.convergepay.com/hosted-payments/buy_button_script/7246736d474f72745450716f786a496857375474694141414157324d39326668\"></script></div></a>  ",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "Program-Info",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size mbr-after-navbar\" data-rv-view=\"1512\" style=\"background-color: rgb(26, 188, 156);\">\n    \n    <div class=\"mbr-section__container container mbr-section__container--first\" style=\"padding-top: 31px;\">\n        <div class=\"mbr-header mbr-header--wysiwyg row\">\n            <div class=\"col-sm-8 col-sm-offset-2\">\n                <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"52\">How To Support Our Mission</h3>\n                \n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section__container container mbr-section__container--last\" style=\"padding-bottom: 31px;\">\n        <div class=\"row\">\n            <div class=\"mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2 mbr-editable-full\" code-editable-id=\"53\"><p>If you would like to support our mission to create access for all children, or to sponsor a Reminiscene Theatre project with local low income seniors, please contact us by email. &nbsp;</p><p>Your donation is tax deductible as a charitible donation.</p></div>\n        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"KBDB6EJMMEVJY\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" border=\"0\" name=\"submit\" title=\"PayPal - The safer, easier way to pay online!\" alt=\"Donate with PayPal button\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n        </div>\n    </div>\n    \n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-header .mbr-header__text {\n  text-align: center;\n  color: #f6faaf;\n  font-size: 30px;\n}\n.mbr-header .mbr-header__subtext {\n  text-align: center;\n  color: #fff;\n}\n.mbr-article {\n  color: #fff;\n}\n.mbr-article P {\n  text-align: center;\n}\n",
-          "_customTemplate": true,
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#f6faaf",
-              "text-align": "center",
-              "font-size": "30px"
-            },
-            ".mbr-article": {
-              "color": "#f6faaf"
-            },
-            ".mbr-article P": {
-              "font-size": "17px"
-            }
-          },
-          "_sourceTheme": "default"
-        },
-        {
-          "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#ffffff",
+              "color": "#ee2f00",
               "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -376,10 +375,15 @@
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
+              "color": "#ee2f00",
               "text-align": "center"
+            },
+            ".mbr-article DIV": {
+              "text-align": "center",
+              "font-size": "22px"
+            },
+            ".mbr-article B": {
+              "font-size": "23px"
             }
           },
           "_params": {
@@ -390,22 +394,22 @@
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pxl-20220613-605856-2000x1198.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#a888c1",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": true,
-            "overlay": false,
-            "overlayColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#41a85f",
             "overlayOpacity": 0.2
           },
-          "title": "Fall Classes for 2022!!!",
-          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Saturday Aug 27th to Nov 19th</b><br></p><p><b>9am to 11:00am &nbsp;3rd-4th Grades\n</b></p><p><b>Sat Aug 27th to Dec 3rd\n</b></p><p><b>11:15 to 1:15&nbsp;5 4th - 6th Grades&nbsp;\n</b></p><p><b>Sunday August 28th to Dec 10th\n</b></p><p><b>1pm to 3pm&nbsp; Middle school Grades&nbsp;</b></p><p><b>Tues Aug 30th to Nov 1st</b></p><p><b>Introduction class 2nd - 4th Grades&nbsp;</b></p>",
+          "title": "Fall 2022 Classes!",
+          "text": "<b>Saturday Aug 27th to Nov 19th\n</b><div>\n</div><div><b>9am to 11:00am    3rd-4th Grades\n</b></div><div><b><br></b></div><div><b>Sat Aug 27th to Dec 3rd\n</b></div><div><b>11:15am&nbsp; to 1:15pm&nbsp; 4th - 6th Grades \n</b></div><div><b><br></b></div><div><b>Sunday August 28th to Dec 10th\n</b></div><div><b>1pm to 3pm     Middle school Grades \n</b></div><div><b><br></b></div><div><b>Tues Aug 30th to Nov 1st</b></div><div><b>1:30pm to 5pm</b></div><div><b>\n</b></div><div><b>Introduction class 2nd - 3rd Grades&nbsp;</b></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -413,7 +417,7 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_sourceTheme": "default",
-          "_anchor": "content5-80"
+          "_anchor": "content5-8k"
         },
         {
           "_inherit": "msg-box5",
@@ -430,7 +434,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#f95e45",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -463,7 +467,7 @@
             }
           },
           "title": "Summer 2022 Dates, Rates, Time and Location&nbsp;",
-          "text": "<p>Dates for Summer Camp 2022 !!!<br></p><p>July 11 - 22       4-6th Grade<br></p><p>July 25 - Aug 5     4-6th Grade\n</p><p>August 8 - 12     2-3rd Grade</p><p>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!<br></p><p>Each camp is $240 per child per week. &nbsp;All are two week camps except the last one. &nbsp;Only coming for one week is not an option. &nbsp;</p><p>Deposit of $100 must be sent with Registration before confirmation. &nbsp;Deposit refundable up to two weeks before start of camp.</p><p>All camps culminate in a play on the last day at 1:00pm. Main Costumes are provided but we don't carry shoes/boots or basics like leggings or shirts. &nbsp;</p><p>A cooler bag lunch, a long drink, comfortable clothes, a curious attitude and an excitement to make friends are all that's required.&nbsp;</p><p><b>Scholarships (Full and partial) considered based on reservation numbers. &nbsp;Please contact us to discuss. &nbsp;If you would like to donate a sholarship fee to a family, please use our donate button above. &nbsp;It is a tax deductible donation.&nbsp;</b><br></p><p><b>Location</b></p><p>All camps/Classes held at The Adele Grage Cultural Center Theatre,\n</p><p>716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone or text</p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook</p><p><b>https://www.facebook.com/thefirstact/</b></p><p><br></p><p><br></p>",
+          "text": "<p>Dates for Summer Camp 2022 !!!<br></p><p>July 25 - Aug 5&nbsp; &nbsp; &nbsp;4-6th Grade<br></p><p>August 8 - 12&nbsp; &nbsp; 2-3rd Grade</p><p>Please note all grades are suggested as we are open to considering children based on age, experience, maturity and sibling attendance!<br></p><p>Each camp is $240 per child per week. &nbsp;All are two week camps except the last one. &nbsp;Only coming for one week is not an option. &nbsp;</p><p>Deposit of $100 must be sent with Registration before confirmation. &nbsp;Deposit refundable up to two weeks before start of camp.</p><p>All camps culminate in a play on the last day at 1:00pm. Main Costumes are provided but we don't carry shoes/boots or basics like leggings or shirts. &nbsp;</p><p>A cooler bag lunch, a long drink, comfortable clothes, a curious attitude and an excitement to make friends are all that's required.&nbsp;</p><p><b>Scholarships (Full and partial) considered based on reservation numbers. &nbsp;Please contact us to discuss. &nbsp;If you would like to donate a sholarship fee to a family, please use our donate button above. &nbsp;It is a tax deductible donation.&nbsp;</b><br></p><p><b>Location</b></p><p>All camps/Classes held at The Adele Grage Cultural Center Theatre,\n</p><p>716 Ocean Blvd at 7th Street, Atlantic Beach, FL 32233.</p><p><b>Insufficient reservations may cause cancellation.</b></p><p><b>For more information and to request a Registration Form please contact Aine directly by email -<br></b></p><p><b>aine@thefirstactcct.org, </b></p><p>By phone or text</p><p><b>904 509 1472 </b></p><p>or on </p><p>facebook</p><p><b>https://www.facebook.com/thefirstact/</b></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -858,7 +862,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#f95e45",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -922,7 +926,7 @@
             "noGutter": true,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#41a85f",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/20190408-175436-2000x1500.jpg",
@@ -991,7 +995,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#f95e45",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1176,7 +1180,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#41a85f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1308,7 +1312,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#9365b8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1638,7 +1642,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1667,7 +1671,7 @@
             "noGutter": false,
             "showText": true,
             "showBullets": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/20170630-93810-2000x1499.jpg",
@@ -1762,7 +1766,7 @@
             "noGutter": false,
             "showText": true,
             "showBullets": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/20160708-154708-2000x1500.jpg",
@@ -1838,7 +1842,7 @@
             "noGutter": false,
             "showText": true,
             "showBullets": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/13502802-10207825202806778-639887263979117317-o-1224x918.jpg",
@@ -1914,7 +1918,7 @@
             "noGutter": false,
             "showText": true,
             "showBullets": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20150710-114336-2000x1500.jpg",
@@ -1998,13 +2002,13 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "10",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#f95e45",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2035,7 +2039,7 @@
               "size": 0
             }
           },
-          "title": "<br>The Tempest<br><br><br>",
+          "title": "<br>The Tempest<br>",
           "text": "By Geoff Bamber based on the original play by William Shakespeare - Summer '18",
           "_tags": [
             "Theme"
@@ -2043,7 +2047,7 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#f6faaf",
-              "font-size": "20px"
+              "font-size": "30px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -2069,7 +2073,7 @@
             "noGutter": true,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#00a885",
+            "bgColor": "#41a85f",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/storage-emulated-0-android-data-com.sec.imsservice-files-received-files-20180811-142638-1534034182311-2000x1219.jpg",
@@ -2320,7 +2324,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#f95e45",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2365,7 +2369,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -2527,7 +2531,7 @@
             "noGutter": false,
             "showText": true,
             "showBullets": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "images": [
               {
                 "caption": "Titania and the Changling girl<br>All photos in this series by Hal Padgett",
@@ -2604,7 +2608,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/2015-04-01-17.22.08-2000x1131.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#f95e45",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -2697,7 +2701,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2726,7 +2730,7 @@
             "noGutter": false,
             "showText": true,
             "showBullets": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-54-640x480.jpg",
@@ -2929,7 +2933,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#f95e45",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2958,7 +2962,7 @@
             "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#f97352",
+            "bgColor": "#f95e45",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dscn0699-2000x1500.jpg",
@@ -3038,7 +3042,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#41a85f",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -3128,84 +3132,9 @@
           "_sourceTheme": "default"
         },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9365b8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-1j",
-          "_sourceTheme": "default"
-        },
-        {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9365b8",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/thefirstact/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-2",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#f6faaf"
-            }
-          },
-          "_sourceTheme": "default"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -6436,8 +6365,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
