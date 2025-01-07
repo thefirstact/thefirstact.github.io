@@ -51,25 +51,42 @@
 #content5-8j .btn {
   font-size: 18px;
 }
-#content5-8k .mbr-header .mbr-header__text {
-  text-align: center;
+#msg-box4-91 .mbr-header__text {
   color: #ffffff;
-  font-size: 30px;
 }
-#content5-8k .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-8k .mbr-article {
+#msg-box4-91 .mbr-header__subtext {
   color: #ffffff;
-  text-align: center;
 }
-#content5-8k .mbr-article DIV {
-  text-align: center;
-  font-size: 22px;
+#msg-box4-91 .mbr-article {
+  color: #ffffff;
 }
-#content5-8k .mbr-article B {
-  font-size: 23px;
+#msg-box4-91 .mbr-article P {
+  font-size: 21px;
+  text-align: left;
+}
+#msg-box4-92 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-92 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-92 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-92 .mbr-article DIV {
+  font-size: 21px;
+}
+#msg-box4-93 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-93 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-93 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-93 .mbr-article P {
+  font-size: 21px;
 }
 #msg-box5-8f .mbr-header__text {
   color: #ffffff;
