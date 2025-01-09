@@ -1,8 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
-
-
-
 
 #Main-Title-Page .mbr-header__text {
   color: #f6faaf;
@@ -55,42 +51,56 @@
 #content5-8j .btn {
   font-size: 18px;
 }
-#content5-8k .mbr-header .mbr-header__text {
+#content5-9h .mbr-header .mbr-header__text {
   text-align: center;
   color: #ffffff;
   font-size: 30px;
-  font-family: 'PT Serif', serif;
 }
-#content5-8k .mbr-header .mbr-header__subtext {
+#content5-9h .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-8k .mbr-article {
+#content5-9h .mbr-article {
   color: #ffffff;
+}
+#content5-9h .mbr-article DIV {
+  font-size: 20px;
   text-align: center;
 }
-#content5-8k .mbr-article DIV {
+#content5-9g .mbr-header .mbr-header__text {
   text-align: center;
-  font-size: 23px;
-  font-family: 'PT Serif', serif;
+  color: #ffffff;
+  font-size: 30px;
 }
-#content5-8k .mbr-article B {
-  font-size: 23px;
-}
-#content5-8z .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #000000;
-  font-size: 36px;
-}
-#content5-8z .mbr-header .mbr-header__subtext {
+#content5-9g .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-8z .mbr-article {
-  color: #000000;
+#content5-9g .mbr-article {
+  color: #ffffff;
+}
+#content5-9g .mbr-article P {
+  font-size: 20px;
   text-align: center;
-  font-size: 23px;
-  font-family: 'Montserrat', sans-serif;
+}
+#content5-9f .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+}
+#content5-9f .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-9f .mbr-article {
+  color: #ffffff;
+}
+#content5-9f .mbr-article DIV {
+  font-size: 20px;
+  text-align: center;
+}
+#content5-9f .mbr-article P {
+  text-align: center;
 }
 #msg-box5-8f .mbr-header__text {
   color: #ffffff;
